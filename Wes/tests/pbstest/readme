@@ -1,2 +1,0 @@
-6-27-18
-This directory is made for the purpose of testing the output of a pbs job submission. One goal is to get the output of a file source by a .pbs placed into an output file. For example if the sourced file echos something, I want to see the message. 

@@ -1,2 +1,0 @@
-I have an error message to send.
-This is the second error that I have to send.

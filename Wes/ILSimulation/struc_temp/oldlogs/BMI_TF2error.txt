@@ -1,1 +1,0 @@
-tail: cannot open `BMI.log' for reading: No such file or directory
