@@ -1,0 +1,1526 @@
+,P,Density,T,Name
+0,101.325,899.1,298.15,tetradecyl(trihexyl)phosphonium dicyanamide
+1,101.325,1518.9,298.15,1-ethyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+2,101.325,891.8,298.15,trihexyl(tetradecyl)phosphonium chloride
+3,101.325,886.4,298.15,"trihexyltetradecylphosphonium bis(2,4,4-trimethylpentyl)phosphinate"
+4,101.325,1367.0,298.15,1-butyl-3-methylimidazolium hexafluorophosphate
+5,101.325,1436.0,298.15,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+6,101.325,1102.0,298.15,1-methyl-3-octylimidazolium tetrafluoroborate
+7,101.325,1144.5,298.15,1-hexyl-3-methylimidazolium tetrafluoroborate
+8,101.0,1146.7,298.15,1-hexyl-3-methylimidazolium tetrafluoroborate
+9,101.325,1370.0,298.15,1-butyl-3-methylimidazolium hexafluorophosphate
+13,101.325,1229.2,298.15,3-hexyl-1-methyl-1H-imidazolium bromide
+14,101.325,1044.3,298.15,1-hexyl-3-methylimidazolium chloride
+15,101.325,1192.8,298.15,1-benzyl-3-methyl-1H-imidazolium chloride
+16,101.325,0.00013000000000000002,298.0,1-octanaminium dihydrogen phosphate
+17,101.325,0.00013000000000000002,298.0,1-nonylammonium dihydrogen phosphate
+18,101.325,1366.7,298.15,1-butyl-3-methylimidazolium hexafluorophosphate
+19,101.325,1366.1,298.15,1-butyl-3-methylimidazolium hexafluorophosphate
+20,101.325,1370.8,298.15,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+21,101.325,1202.0,298.2,2-aminoethanol-2-hydroxypropanoate
+23,101.325,1760.0,298.1,2-azido-1H-imidazol-1-ium perchlorate
+24,101.325,1610.0,298.1,"3-azido-5-methyl-1H-1,2,4-triazol-1-ium nitrate"
+25,101.325,1660.0,298.1,"3-azido-1-methyl-1H-1,2,4-triazol-1-ium perchlorate"
+26,101.325,1630.0,298.1,"3-azido-1-methyl-1H-1,2,4-triazol-1-ium nitrate"
+27,101.325,1660.0,298.1,"4-amino-1,5-dimethyl-1H-tetrazol-4-ium perchlorate"
+28,101.325,1640.0,298.1,2-azido-1H-imidazol-1-ium nitrate
+34,101.325,1450.0,298.1,"4-(2-azidoethyl)-1-methyl-4H-1,2,4-triazol-1-ium nitrate"
+35,101.325,1600.0,298.1,"1-(2-azidoethyl)-4-methyl-4H-1,2,4-triazol-1-ium perchlorate"
+36,101.325,1490.0,298.1,"1-(2-azidoethyl)-4-methyl-1,2,4-triazolium nitrate"
+37,101.325,1590.0,298.1,"4-(2-azidoethyl)-1-methyl-4H-1,2,4-triazol-1-ium perchlorate"
+38,101.325,1630.0,298.1,"4-amino-1-(2-azidoethyl)-4H-1,2,4-triazol-1-ium perchlorate"
+39,101.325,1570.0,298.1,"4-amino-1-(2-azidoethyl)-4H-1,2,4-triazol-1-ium nitrate"
+40,101.325,1580.0,298.1,"3-azido-1-(2-azidoethyl)-1H-1,2,4-triazol-1-ium nitrate"
+41,101.325,1610.0,298.1,"1-(2-azidoethyl)-1H-1,2,4-triazol-1-ium perchlorate"
+42,101.325,1600.0,298.1,"1-(2-azidoethyl)-1H-1,2,4-triazol-1-ium nitrate"
+43,101.325,1130.0,298.15,1-allyl-3-methylimizodalium formate
+44,101.325,1111.0,298.15,1-allyl-3-methylimizodalium acetate
+45,101.325,1086.0,298.15,1-allyl-3-methyl-1H-imidazol-3-ium propionate
+46,101.325,1148.0,298.15,1-allyl-3-methylimizodalium lactate
+47,101.325,1189.0,298.15,1-allyl-3-methylimizodalium glycollate
+48,101.325,1149.0,298.15,1-allyl-3-methylimizodalium benzoate
+49,101.325,1062.0,298.15,1-allyl-3-methylimizodalium butanoate
+50,101.3,1220.0,298.15,1-butylpyridinium tetrafluoroborate
+51,101.0,1166.0,298.15,1-allyl-3-methylimidazolium chloride
+52,101.325,1379.2,298.15,1-butyl-1-methylpiperidinium bis(trifluoromethanesulfonyl)imide
+53,101.325,1409.8,298.15,1-methyl-1-propylpiperidinium bis(trifluoromethylsulfonyl)imide
+54,101.325,1060.1,298.1,1-butyl-3-methylimidazolium octyl sulfate
+55,101.3,1367.9,298.15,1-butyl-3-methylimidazolium hexafluorophosphate
+56,101.325,1211.0,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+57,101.325,1800.0,298.15,ammonium dinitramide
+58,101.325,1143.9,298.0,1-hexyl-3-methylimidazolium tetrafluoroborate
+61,101.3,1279.0,298.15,1-ethyl-3-methylimidazolium tetrafluoroborate
+62,101.3,1228.0,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+63,101.325,1263.1,298.15,3-butyl-1-ethyl-1H-imidazolium trifluoromethanesulfonate (1:1)
+64,101.325,1297.4,298.15,1-butyl-3-methylimidazolium trifluoromethanesulfonate
+65,101.325,1252.01,298.15,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate
+66,101.325,1383.6,298.15,1-ethyl-3-methylimidazolium trifluoromethanesulfonate
+67,101.325,1383.6,298.15,1-ethyl-3-methylimidazolium trifluoromethanesulfonate
+74,101.0,1021.4,298.15,diethylammonium acetate
+75,101.0,1015.9,298.15,triethylammonium acetate
+76,101.0,1142.9,298.15,triethylammonium hydrogen sulfate
+77,101.0,1053.8,298.15,trimethylammonium acetate
+78,101.0,1467.6,298.15,trimethylammonium hydrogen sulfate
+82,101.325,1186.1,298.15,1-ethyl-3-methylimidazolium lactate
+83,101.325,1106.0,298.15,1-pentyl-3-methylimidazolium lactate
+84,101.0,1211.0,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+96,101.0,1101.9,298.15,1-ethyl-3-methylimidazolium dicyanamide
+97,101.0,1280.4,298.15,1-ethyl-3-methylimidazolium tetrafluoroborate
+98,101.0,1283.7,298.15,1-ethyl-3-methylimidazolium tetrafluoroborate
+99,101.0,1146.3,298.15,1-hexyl-3-methylimidazolium tetrafluoroborate
+100,101.0,1059.1,298.15,1-butyl-3-methylimidazolium dicyanamide
+101,101.0,1368.0,298.15,1-butyl-3-methylimidazolium hexafluorophosphate
+102,101.0,1202.2,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+104,101.325,1009.6,298.15,1-methyl-3-octylimidazolium chloride
+105,101.325,1205.8,298.15,1-butyl-3-methylimidazolium methylsulfate
+106,101.325,1067.6,298.15,1-butyl-3-methylimidazolium octyl sulfate
+140,101.325,1053.0,298.15,1-butyl-3-methylimidazolium acetate
+142,101.325,1053.0,298.15,1-butyl-3-methylimidazolium acetate
+143,101.325,1067.0,298.65,1-butyl-3-methylimidazolium thiocyanate
+144,101.325,1214.0,298.15,1-butyl-3-methylimidazolium methylsulfate
+149,101.325,1222.1,298.15,3-hexyl-1-methyl-1H-imidazolium bromide
+150,101.325,1223.81,298.15,3-hexyl-1-methyl-1H-imidazolium bromide
+151,101.325,1237.72,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+152,101.325,1222.1,298.15,3-hexyl-1-methyl-1H-imidazolium bromide
+153,101.325,1370.0,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+154,101.325,1279.9,298.15,1-ethyl-3-methylimidazolium tetrafluoroborate
+155,101.325,1279.9,298.15,1-ethyl-3-methylimidazolium tetrafluoroborate
+156,101.325,1234.0,298.15,1-ethyl-3-methylimidazolium methanesulfonate
+157,101.325,1027.0,298.15,1-ethyl-3-methylimidazolium acetate
+158,101.325,1240.0,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+159,101.325,1436.1,298.15,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+160,101.325,1518.74,298.15,1-ethyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+163,101.325,1371.99,298.15,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+169,101.325,1473.97,298.15,1-methyl-3-propylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+171,101.325,1252.71,298.15,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate
+172,101.325,1394.66,298.15,1-butyl-1-methylpyrrolidinium bis[(trifluoromethyl)sulfonyl]imide
+173,101.0,1209.23,298.15,ethylammonium nitrate
+175,101.325,1148.4,298.15,1-ethyl-3-methylimidazolium diethylphosphate
+176,101.325,1099.0,298.15,1-ethyl-3-methylimidazolium acetate
+177,101.325,1339.4,298.15,"1-hexyl-2,4-dimethylpyridinium bis((trifluoromethyl)sulfonyl)amide"
+178,101.325,1175.7,298.1,3-ethyl-1-methylimidazolium butyl sulfate
+179,101.325,1238.3,298.1,1-ethyl-3-methylimidazolium ethyl sulfate
+180,101.325,1129.6,298.1,3-ethyl-1-methyl-1H-imidazolium hexyl sulfate
+181,101.325,1093.8,298.1,1-ethyl-3-methylimidazolium octyl sulfate
+182,101.325,1145.4,298.1,1-hexyl-3-methylimidazolium tetrafluoroborate
+183,101.325,1104.2,298.1,1-methyl-3-octylimidazolium tetrafluoroborate
+184,101.325,1279.9,298.1,1-ethyl-3-methylimidazolium tetrafluoroborate
+185,101.325,1201.2,298.1,1-butyl-3-methylimidazolium tetrafluoroborate
+186,101.325,1014.5,298.15,1-butyl-1-methylpyrrolidinium dicyanamide
+187,101.325,1046.18,298.15,1-butyl-3-methylimidazolium dibutyl phosphate
+188,101.325,1125.96,298.15,"1,3-diethyl-1H-imidazol-3-ium diethyl phosphate"
+189,101.325,1083.21,298.15,1-butyl-3-ethyl-1H-imidazol-3-ium diethyl phosphate
+190,101.325,1252.6,298.15,"1,3-dimethylimidazolium dimethylphosphate"
+191,101.325,1148.86,298.15,1-ethyl-3-methylimidazolium diethylphosphate
+192,101.325,1212.3,298.15,1-butyl-3-methylimidazolium methylsulfate
+193,101.325,1277.4,298.15,1-ethyl-3-methylimidazolium methylsulfate
+194,101.325,1327.3,298.15,"1,3-dimethylimidazolium methylsulfate"
+195,101.325,1212.3,298.15,1-butyl-3-methylimidazolium methylsulfate
+196,101.325,1277.4,298.15,1-ethyl-3-methylimidazolium methylsulfate
+197,101.325,1327.3,298.15,"1,3-dimethylimidazolium methylsulfate"
+198,101.325,1240.2,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+199,101.325,1237.5,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+200,101.325,1237.5,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+201,101.325,1327.0,298.15,"1,3-dimethylimidazolium methylsulfate"
+202,101.325,1293.7,298.15,1-hexyl-3-methylimidazolium hexafluorophosphate
+203,101.325,1235.7,298.15,1-octyl-3-methylimidazolium hexafluorophosphate
+204,101.325,1367.3,298.15,1-butyl-3-methylimidazolium hexafluorophosphate
+205,101.325,1327.2,298.15,"1,3-dimethylimidazolium methylsulfate"
+206,101.325,1293.7,298.15,1-hexyl-3-methylimidazolium hexafluorophosphate
+207,101.325,1327.2,298.15,"1,3-dimethylimidazolium methylsulfate"
+208,101.325,1367.3,298.15,1-butyl-3-methylimidazolium hexafluorophosphate
+209,101.325,1235.7,298.15,1-octyl-3-methylimidazolium hexafluorophosphate
+210,101.325,1367.3,298.15,1-butyl-3-methylimidazolium hexafluorophosphate
+211,101.325,1235.7,298.15,1-octyl-3-methylimidazolium hexafluorophosphate
+212,101.325,1293.7,298.15,1-hexyl-3-methylimidazolium hexafluorophosphate
+213,101.325,1170.0,298.15,tetrapropylammonium bromide
+229,101.325,1120.0,298.15,1-octyl-3-methylimidazolium trifluoromethanesulfonate
+230,101.325,1310.0,298.15,1-octyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+231,101.325,1350.0,298.15,1-butyl-4-methylpyridinium bis((trifluoromethyl)sulfonyl)amide
+232,101.325,1000.0,298.15,3-methyl-1-octylimidazolium dicyanamide
+233,101.325,1330.0,298.15,1-methyl-3-octylimidazolium perfluorobutanesulfonate
+234,101.325,1170.0,298.15,1-butyl-4-methylpyridinium trifluoromethanesulfonate
+235,101.325,975.6,298.15,1-butyl-1-methylpyrrolidinium tetracyanoborate
+237,101.325,1694.3,298.15,"1H-imidazolium, 1-butyl-3-methyl-, (OC-6-11)-hexafluoroantimonate(1-)"
+238,101.325,1387.1,298.15,1-ethyl-3-methylimidazolium trifluoromethanesulfonate
+239,101.325,1239.0,298.15,1-octyl-3-methylimidazolium hexafluorophosphate
+240,101.325,1449.7,298.2,3-methyl-1-propylpyridinium bis(trifluoromethylsulfonyl)imide
+241,101.325,1436.9,298.2,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+242,101.325,1421.2,298.2,"1-butyl-2,3-dimethyl-1H-imidazolium bis(trifluoromethylsulfonyl)amide"
+243,101.325,1431.7,298.2,1-methyl-1-propylpyrrolidinium bis[(trifluoromethyl)sulfonyl]imide
+244,101.325,1411.4,298.2,1-methyl-1-propylpiperidinium bis(trifluoromethylsulfonyl)imide
+245,101.0,1322.4,298.15,1-octyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+246,101.0,1278.8,298.15,1-decyl-3-methylimidazolium bis(trifluoromethylsulfonyl)amide
+247,101.0,1373.2,298.15,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+248,101.0,1391.7,298.15,1-methyl-3-pentylimidazolium bis(trifluoromethylsulfonyl)imide
+249,101.0,1571.4,298.15,"1,3-dimethylimidazolium bis((trifluoromethyl)sulfonyl)amide"
+250,101.0,1519.3,298.15,1-ethyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+251,101.0,1436.9,298.15,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+253,101.325,1199.7,298.15,"1-butyl-3-methylimidazolium 4,5-dicyano-2-(trifluoromethyl)imidazolide"
+254,101.325,1199.7,298.15,"1-butyl-3-methylimidazolium 4,5-dicyano-2-(trifluoromethyl)imidazolide"
+255,101.325,1280.0,298.1,1-ethyl-3-methylimidazolium tetrafluoroborate
+256,101.325,1210.0,298.1,1-butyl-3-methylimidazolium tetrafluoroborate
+257,101.325,1240.0,298.1,1-propyl-3-methylimidazolium tetrafluoroborate
+258,101.325,1207.5,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+259,101.325,1225.5,298.15,3-hexyl-1-methyl-1H-imidazolium bromide
+260,101.325,1146.5,298.15,1-hexyl-3-methylimidazolium tetrafluoroborate
+261,101.325,1116.4,298.15,1-methyl-3-octylimidazolium tetrafluoroborate
+262,101.325,1170.6,298.15,1-methyl-3-octylimidazolium bromide
+267,101.325,,298.1,1-[2-(ethylsulfonyl)ethyl]-3-methyl-1H-imidazol-3-ium trifluoromethanesulfonate
+268,101.325,,298.1,1-butyl-3-methylimidazolium bis(perfluoroethylsulfonyl)imide
+269,101.325,1118.0,298.1,1-ethyl-3-methylimidazolium thiocyanate
+270,101.325,1059.0,298.1,1-butyl-3-methylimidazolium dicyanamide
+271,101.325,1013.0,298.1,1-butyl-1-methylpyrrolidinium dicyanamide
+272,101.325,1520.0,298.1,1-ethyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+273,101.325,1436.0,298.1,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+274,101.325,1292.0,298.1,1-butyl-3-methylimidazolium trifluoromethanesulfonate
+275,101.325,1395.0,298.1,1-butyl-1-methylpyrrolidinium bis[(trifluoromethyl)sulfonyl]imide
+276,101.325,1357.0,298.1,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+277,101.325,1237.0,298.1,1-ethyl-3-methylimidazolium ethyl sulfate
+278,101.325,1321.0,298.1,1-octyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+279,101.325,1011.0,298.1,3-decyl-1-methyl-1H-imidazolium thiocyanate
+280,101.325,966.0,298.1,methyltrioctylammonium trifluoroacetate
+281,101.325,1072.0,298.1,1-butyl-3-methylimidazolium octyl sulfate
+282,101.325,1068.0,298.1,1-butyl-3-methylimidazolium trifluoroacetate
+283,101.325,1065.0,298.1,trihexyl(tetradecyl)phosphonium bis[(trifluoromethyl)sulfonyl]imide
+284,101.325,1279.0,298.1,1-decyl-3-methylimidazolium bis(trifluoromethylsulfonyl)amide
+285,101.325,1580.0,298.1,1-butyl-1-methylpyrrolidinium tris(pentafluoroethyl)trifluorophosphate
+286,101.325,1208.0,298.1,1-butyl-3-methylimidazolium methylsulfate
+288,101.325,1372.0,298.15,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+289,101.325,1436.0,298.15,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+290,101.0,1191.2,298.0,"1-butyl-2,3-dimethylimidazolium tetrafluoroborate"
+291,101.0,1200.3,298.0,1-butyl-3-methylimidazolium tetrafluoroborate
+292,101.0,1191.2,298.15,"1-butyl-2,3-dimethylimidazolium tetrafluoroborate"
+293,101.0,1200.3,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+294,101.325,1208.1,298.15,"N-ethyl-N,N-dimethyl-N-butylammonium ethyl sulfate"
+295,101.325,1111.6,298.15,"N-ethyl-2-hydroxy-N,N-dimethylethanaminium 1-butanesulfonate"
+296,101.325,1125.7,298.15,"N-ethyl-N-(2-hydroxyethyl)-N,N-dimethylammonium ethyl sulfate"
+301,101.325,1036.4,298.15,1-hexylpyridinium dicyanamide
+302,101.325,1053.1,298.15,1-pentylpyridinium dicyanamide
+303,101.325,1068.8,298.15,1-butylpyridinium dicyanamide
+304,101.325,1090.1,298.15,1-propylpyridinium dicyanamide
+305,101.325,1118.5,298.15,1-ethylpyridinium dicyanamide
+306,101.325,1006.8,298.15,1-butyl-1-methylpyrrolidinium tricyanomethanide
+307,101.325,1036.6,298.15,1-butyl-4-methylpyridinium tricyanomethanide
+308,101.325,1046.7,298.15,1-butyl-3-methylimidazolium tricyanomethane
+310,101.325,1388.1,298.15,1-ethyl-3-methylimidazolium bromide
+311,101.325,1302.3,298.15,1-butyl-3-methylimidazolium bromide
+319,101.325,1010.4,298.2,1-methyl-3-octylimidazolium chloride
+320,101.325,1293.5,298.15,1-hexyl-3-methylimidazolium hexafluorophosphate
+321,101.325,1148.1,298.15,1-hexyl-3-methylimidazolium tetrafluoroborate
+322,101.325,1148.4,298.15,1-hexyl-3-methylimidazolium tetrafluoroborate
+323,101.325,1278.1,298.15,1-hexyl-3-methylimidazolium hexafluorophosphate
+324,101.325,1010.4,298.15,1-methyl-3-octylimidazolium chloride
+325,101.0,886.4,298.15,"trihexyltetradecylphosphonium bis(2,4,4-trimethylpentyl)phosphinate"
+327,101.325,1065.5,298.15,trihexyl(tetradecyl)phosphonium bis[(trifluoromethyl)sulfonyl]imide
+328,101.325,1052.7,298.15,1-butyl-3-methylimidazolium acetate
+329,101.325,1099.02,298.15,1-ethyl-3-methylimidazolium acetate
+330,101.325,1278.4,298.15,1-decyl-3-methylimidazolium bis(trifluoromethylsulfonyl)amide
+331,101.325,1372.09,298.15,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+332,101.325,1518.91,298.15,1-ethyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+333,101.325,1061.7,298.15,2-octylisoquinolinium thiocyanate
+334,101.325,1081.3,298.15,2-hexylisoquinolinium thiocyanate
+335,101.325,1453.7,298.15,1-(2-methoxyethyl)-1-methylpyrrolidinium bis((trifluoromethyl)sulfonyl)amide
+336,101.325,1068.87,298.15,1-butyl-3-methylimidazolium thiocyanate
+337,101.325,1115.79,298.15,1-ethyl-3-methylimidazolium thiocyanate
+338,101.325,1205.0,298.1,"1,1-dimethylhydrazinium azide"
+339,101.325,1201.0,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+340,101.325,1366.4,298.1,1-butyl-3-methylimidazolium hexafluorophosphate
+341,101.0,1192.78,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+342,101.0,1236.33,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+343,101.0,1145.22,298.15,1-hexyl-3-methylimidazolium tetrafluoroborate
+344,101.325,1142.89,298.15,triethylammonium hydrogen sulfate
+345,101.325,1015.86,298.15,triethylammonium acetate
+346,101.325,1021.41,298.15,diethylammonium acetate
+347,101.325,1207.8,298.15,1-butyl-3-methylimidazolium methylsulfate
+348,101.325,1201.4,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+349,101.325,886.43,298.15,"trihexyltetradecylphosphonium bis(2,4,4-trimethylpentyl)phosphinate"
+350,101.325,891.82,298.15,trihexyl(tetradecyl)phosphonium chloride
+351,101.325,1203.8,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+352,101.325,1236.5,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+353,101.325,886.43,298.15,"trihexyltetradecylphosphonium bis(2,4,4-trimethylpentyl)phosphinate"
+354,101.325,891.82,298.15,trihexyl(tetradecyl)phosphonium chloride
+355,101.325,1080.0,298.1,1-butyl-3-methylimidazolium chloride
+356,101.325,1290.0,298.1,1-hexyl-3-methylimidazolium hexafluorophosphate
+357,101.325,1440.0,298.1,1-butyl-3-methylimidazolium iodide
+358,101.325,1000.0,298.1,1-methyl-3-octylimidazolium chloride
+359,101.325,1220.0,298.1,1-octyl-3-methylimidazolium hexafluorophosphate
+360,101.325,1430.0,298.1,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+361,101.325,1030.0,298.1,1-hexyl-3-methylimidazolium chloride
+362,101.325,1360.0,298.1,1-butyl-3-methylimidazolium hexafluorophosphate
+363,101.325,1120.0,298.1,1-butyl-3-methylimidazolium tetrafluoroborate
+366,101.0,966.82,298.15,propylammonium acetate
+367,101.0,1017.71,298.15,ethylammonium acetate
+368,101.325,1380.0,298.2,1-butyl-3-methylimidazolium hexafluorophosphate
+369,101.325,1200.0,298.2,1-butyl-3-methylimidazolium tetrafluoroborate
+370,101.325,1210.0,298.2,1-ethyl-3-methylimidazolium 4-methylbenzenesulfonate
+371,101.325,1170.0,298.2,1-butyl-3-methylimidazolium 2-(2-methoxyethoxy)ethyl sulfate
+373,101.325,1525.2,298.15,1-ethyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+374,101.325,1480.2,298.15,"1-ethyl-2,3-dimethylimidazolium bis[(trifluoromethyl)sulfonyl]imide"
+375,101.325,1184.24,298.15,1-butyl-4-methylpyridinium tetrafluoroborate
+376,101.325,1184.2,298.15,1-butyl-4-methylpyridinium tetrafluoroborate
+378,101.325,1363.3,298.15,1-butyl-3-methylimidazolium hexafluorophosphate
+379,101.325,1195.2,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+380,101.0,1097.0,298.15,1-butyl-3-methylimidazolium acetate
+381,101.0,1119.0,298.15,1-propyl-3-methylimidazolium acetate
+382,101.0,1077.0,298.15,1-methyl-3-pentylimidazolium acetate
+383,101.0,1061.0,298.15,3-hexyl-1-methylimidazolium acetate
+384,101.0,1144.0,298.15,1-ethyl-3-methylimidazolium acetate
+404,101.325,1447.94,298.15,3-methyl-1-propylpyridinium bis(trifluoromethylsulfonyl)imide
+405,101.325,1488.5,298.15,1-ethyl-3-methylpyridinium bis((trifluoromethyl)sulfonyl)amide
+406,101.325,1237.23,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+407,101.325,1237.23,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+408,101.325,1237.23,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+409,101.325,1237.23,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+410,101.325,1219.61,298.15,1-ethyl-3-methylpyridinium ethylsulfate
+411,101.325,1219.61,298.15,1-ethyl-3-methylpyridinium ethylsulfate
+412,101.325,1237.23,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+413,101.325,1219.61,298.15,1-ethyl-3-methylpyridinium ethylsulfate
+414,101.325,1237.2,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+415,101.325,1219.61,298.15,1-ethyl-3-methylpyridinium ethylsulfate
+416,101.325,1219.61,298.15,1-ethyl-3-methylpyridinium ethylsulfate
+417,101.325,1219.61,298.15,1-ethyl-3-methylpyridinium ethylsulfate
+418,101.325,1219.61,298.15,1-ethyl-3-methylpyridinium ethylsulfate
+419,101.325,1219.61,298.15,1-ethyl-3-methylpyridinium ethylsulfate
+420,101.325,1237.6,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+421,101.325,1013.49,298.15,1-butyl-1-methylpyrrolidinium dicyanamide
+422,101.325,1252.71,298.15,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate
+423,101.325,1252.0,298.15,1-ethylpyridinium ethyl sulfate
+424,101.325,1252.0,298.15,1-ethylpyridinium ethyl sulfate
+425,101.325,1252.0,298.15,1-ethylpyridinium ethyl sulfate
+426,101.0,1040.4,298.15,1-hexyl-3-methylimidazolium chloride
+441,101.325,1214.3,298.15,1-butylpyridinium tetrafluoroborate
+442,101.325,1201.14,298.15,1-butyl-2-methylpyridinium tetrafluoroborate
+443,101.325,1182.7,298.15,1-butyl-3-methylpyridinium tetrafluoroborate
+444,101.325,1182.69,298.15,1-butyl-4-methylpyridinium tetrafluoroborate
+445,101.325,1360.0,298.0,1-(2-azido-3-bromopropyl)-3-methyl-3H-imidazol-1-ium bromide
+446,101.325,1340.0,298.0,1-(3-azido-2-bromopropyl)-3-methyl-3H-imidazol-1-ium bromide
+447,101.325,1560.0,298.0,3-(2-azido-3-(1-methyl-1H-imidazol-3-ium-3-yl)propyl)-1-vinyl-1H-imidazol-3-ium dibromide
+448,101.325,1310.0,298.0,1-(2-azido-3-bromopropyl)-3-methyl-3H-imidazol-1-ium dicyanamide
+449,101.325,1280.0,298.0,1-(3-azido-2-bromopropyl)-3-methyl-3H-imidazol-1-ium dicyanamide
+450,101.325,1490.0,298.0,3-(2-azido-3-(1-methyl-1H-imidazol-3-ium-3-yl)propyl)-1-vinyl-1H-imidazol-3-ium di(dicyanamide)
+451,101.325,1250.0,298.15,"1,3-diisobutylimidazolium bromide"
+452,101.325,1200.0,298.15,"1,3-dibutylimidazolium bromide"
+453,101.325,1200.0,298.15,1-butyl-3-methylimidazolium bromide
+454,101.325,1260.0,298.15,1-isobutyl-3-methylimidazolium bromide
+455,101.325,1155.06,298.15,1-hexylpyridinium tetrafluoroborate
+456,101.325,1182.58,298.15,1-butyl-3-methylpyridinium tetrafluoroborate
+457,101.325,1202.2,298.15,1-butyl-2-methylpyridinium tetrafluoroborate
+458,101.325,1214.04,298.15,1-butylpyridinium tetrafluoroborate
+459,101.325,1182.84,298.15,1-butyl-4-methylpyridinium tetrafluoroborate
+460,101.325,1120.0,298.15,3-(2-hydroxyethyl)-1-methyl-1H-imidazol-3-ium dicyanoazanide
+461,101.325,1056.0,298.15,1-butyl-3-methylpyridinium dicyanamide
+463,101.325,1299.0,298.1,1-methyl-3-nonylimidazolium bis(trifluoromethanesulfonyl)imide
+464,101.325,1271.0,298.1,1-decyl-3-methylimidazolium bis(trifluoromethylsulfonyl)amide
+465,101.325,1372.0,298.1,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+466,101.325,1344.0,298.1,1-heptyl-3-methylimidazolium bis(trifluoromethylsulfonyl)amide
+467,101.325,1403.0,298.1,1-methyl-3-pentylimidazolium bis(trifluoromethylsulfonyl)imide
+468,101.325,1320.0,298.1,1-octyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+469,101.325,1212.0,298.1,1-nonyl-3-methylimidazolium hexafluorophosphate
+470,101.325,1237.0,298.1,1-octyl-3-methylimidazolium hexafluorophosphate
+471,101.325,1519.0,298.1,1-ethyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+472,101.325,1475.0,298.1,1-methyl-3-propylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+473,101.325,1407.0,298.1,1-methyl-3-(3-phenylpropyl)-1H-imidazolium hexafluorophosphate
+474,101.325,1326.0,298.1,1-methyl-3-pentylimidazolium hexafluorophosphate
+475,101.325,1292.0,298.1,1-hexyl-3-methylimidazolium hexafluorophosphate
+476,101.325,1262.0,298.1,1-heptyl-3-methylimidazolium hexafluorophosphate
+477,101.325,1470.0,298.1,"1-methyl-3-(2-phenylethyl)-1H-imidazolium 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide"
+478,101.325,1455.0,298.1,"1-methyl-3-(3-phenylpropyl)-1H-imidazolium 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide"
+479,101.325,1214.0,298.15,1-butylpyridinium tetrafluoroborate
+480,101.325,1183.1,298.15,1-butyl-4-methylpyridinium tetrafluoroborate
+481,101.325,1154.8,298.15,1-hexylpyridinium tetrafluoroborate
+482,101.325,1202.5,298.15,1-butyl-2-methylpyridinium tetrafluoroborate
+483,101.325,1474.44,298.15,1-methyl-3-propylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+484,101.325,1436.35,298.15,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+485,101.325,1474.44,298.15,1-methyl-3-propylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+486,101.325,1212.59,298.15,1-butyl-3-methylimidazolium methylsulfate
+487,101.325,1436.35,298.15,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+488,101.325,1212.59,298.15,1-butyl-3-methylimidazolium methylsulfate
+489,101.325,1474.44,298.15,1-methyl-3-propylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+490,101.325,1436.35,298.15,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+491,101.325,1212.59,298.15,1-butyl-3-methylimidazolium methylsulfate
+492,101.325,1024.8,298.15,1-butyl-1-methylpyrrolidinium thiocyanate
+493,101.325,1006.8,298.15,1-butyl-1-methylpyrrolidinium tricyanomethanide
+495,101.325,1006.9,298.15,1-butyl-1-methylpyrrolidinium tricyanomethanide
+496,101.325,1252.8,298.15,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate
+497,101.33,1407.0,298.15,1-hexyl-4-cyanopyridinium bis(trifluoromethylsulfonyl)imide
+498,101.33,1479.8,298.15,1-butyl-3-cyanopyridinium bis(trifluoromethylsulfonyl)imide
+499,101.325,1582.63,298.15,1-butyl-1-methylpyrrolidinium tris(pentafluoroethyl)trifluorophosphate
+500,101.325,1057.0,298.15,1-hexyl-3-methylimidazolium thiocyanate
+501,101.325,,298.15,1-butyl-3-methylimidazolium thiocyanate
+502,101.325,1123.6,298.15,hexyl(2-hydroxyethyl)dimethylammonium tetrafluoroborate
+503,101.0,1068.0,298.15,1-butyl-3-methylimidazolium octyl sulfate
+504,101.0,1212.0,298.15,1-butyl-3-methylimidazolium methylsulfate
+505,101.0,1329.0,298.15,"1,3-dimethylimidazolium methylsulfate"
+506,101.325,1476.0,298.15,"1,3-diethylimidazolium bis[(trifluoromethyl)sulfonyl]imide"
+507,101.325,1402.0,298.15,1-butyl-3-ethylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+508,101.325,1345.0,298.15,1-hexyl-3-ethylimidazolium bis(trifluoromethylsulfonyl)imide
+509,101.325,1328.0,298.15,1-butyl-3-ethylimidazolium hexafluorophosphate
+510,101.325,1068.4,298.15,1-butyl-3-methylimidazolium octyl sulfate
+511,101.325,1212.4,298.15,1-butyl-3-methylimidazolium methylsulfate
+512,101.325,1329.0,298.15,"1,3-dimethylimidazolium methylsulfate"
+514,101.325,1370.6,298.15,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+515,101.325,1046.7,298.15,1-butyl-3-methylimidazolium tricyanomethane
+516,101.325,1036.7,298.15,1-butyl-4-methylpyridinium tricyanomethanide
+517,101.325,1238.0,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+518,101.325,983.03,298.15,1-hexyl-3-methylimidazolium tetracyanoborate
+519,101.325,1847.0,298.1,5-amino-1H-tetrazolium nitrate
+520,101.325,1208.0,298.15,1-butyl-3-methylimidazolium methylsulfate
+521,101.325,1010.4,298.15,1-methyl-3-octylimidazolium chloride
+522,101.325,1102.0,298.15,1-ethyl-3-methylimidazolium dicyanamide
+523,101.325,1099.7,298.15,1-ethyl-3-methylimidazolium acetate
+524,101.325,1280.81,298.15,1-ethyl-3-methylimidazolium methylsulfate
+526,101.325,1028.5,298.15,1-hexyl-3-methylimidazolium dicyanamide
+527,101.325,1473.97,298.15,1-methyl-3-propylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+528,101.325,1371.99,298.15,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+529,101.325,1371.99,298.15,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+531,101.325,1303.63,298.15,1-butyl-3-methylimidazolium trifluoromethanesulfonate
+532,101.325,1436.1,298.15,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+533,101.325,1279.77,298.15,1-butyl-3-methylpyridinium trifluoromethanesulfonate
+534,101.325,1518.74,298.15,1-ethyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+535,101.325,1414.76,298.15,"1-butyl-3-methylpyridinium 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide"
+542,101.325,1434.23,298.15,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+543,101.325,890.0,298.15,"N,N,N-trioctyl-N-methylammonium dicyanamide"
+545,101.325,1003.0,298.15,tetradecyl(trihexyl)phosphonium tosylate
+546,101.325,896.0,298.15,"N-methyl-N,N-dioctyl-1-octanaminium chloride"
+547,101.325,943.0,298.15,N-[(dihexylamino)(dimethylamino)methylene]-N-hexyl-1-hexanaminium chloride
+550,101.325,1217.0,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+555,101.325,1115.0,298.15,1-methyl-3-octylimidazolium tetrafluoroborate
+564,101.325,1436.3,298.15,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+565,101.325,1212.6,298.15,1-butyl-3-methylimidazolium methylsulfate
+566,101.325,1222.26,298.15,1-ethyl-3-methylpyridinium ethylsulfate
+567,101.3,1222.2,298.15,1-ethyl-3-methylpyridinium ethylsulfate
+568,101.325,1237.6,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+569,101.325,1238.0,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+570,101.325,1008.8,298.15,1-methyl-3-octylimidazolium chloride
+571,101.325,1257.8,298.15,"1,3-dimethylimidazolium dimethylphosphate"
+572,101.325,1257.8,298.15,"1,3-dimethylimidazolium dimethylphosphate"
+573,101.325,1146.1,298.15,1-ethyl-3-methylimidazolium diethylphosphate
+575,101.325,1213.7,298.15,1-butylpyridinium tetrafluoroborate
+576,101.325,1314.33,298.15,1-butylpyridinium trifluoromethanesulfonate
+577,101.325,1201.38,298.15,1-butyl-2-methylpyridinium tetrafluoroborate
+578,101.325,1182.6,298.15,1-butyl-3-methylpyridinium tetrafluoroborate
+579,101.325,1182.6,298.15,1-butyl-4-methylpyridinium tetrafluoroborate
+580,101.325,1049.6,298.15,1-butyl-3-methylpyridinium dicyanamide
+581,101.325,1094.5,298.15,N-octyl-3-methylpyridinium tetrafluoroborate
+582,101.325,1328.14,298.15,"1-hexyl-3,5-dimethylpyridinium bis(trifluoromethylsulfonyl)imide"
+583,101.325,1344.1,298.15,tris(2-hydroxyethyl) methylammonium methylsulfate
+584,101.325,1239.0,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+585,101.325,1105.3,298.15,1-methyl-3-octylimidazolium tetrafluoroborate
+586,101.0,1238.8,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+587,101.325,1105.3,298.15,1-methyl-3-octylimidazolium tetrafluoroborate
+588,101.325,1298.3,298.15,1-butyl-3-methylimidazolium trifluoromethanesulfonate
+589,101.325,1007.0,298.15,1-methyl-3-octylimidazolium chloride
+605,101.325,1014.0,298.15,ethyldiisopropylammonium formate
+606,101.3,987.0,298.15,1H-imidazolium octanoate
+607,101.3,1008.0,298.15,ethyldiisopropylammonium formate
+608,101.3,1021.0,298.15,"2,4,6-trimethylpyridinium formate"
+609,101.325,1436.58,298.15,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+610,101.325,1320.59,298.15,1-octyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+611,101.325,1436.58,298.15,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+612,101.325,1320.59,298.0,1-octyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+613,101.325,1437.0,298.15,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+614,101.325,1320.6,298.15,1-octyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+615,101.325,1320.59,298.15,1-octyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+616,101.325,1392.9,298.15,butyltrimethylammonium bis(trifluoromethylsulfonyl)imide
+617,101.325,1412.3,298.15,1-butyl-4-methylpyridinium bis((trifluoromethyl)sulfonyl)amide
+618,101.325,1436.3,298.15,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+619,101.325,1201.7,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+620,101.325,1298.3,298.15,1-butyl-3-methylimidazolium trifluoromethanesulfonate
+621,101.325,1104.4,298.15,1-methyl-3-octylimidazolium tetrafluoroborate
+622,101.325,1238.2,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+623,101.325,1319.8,298.15,1-octyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+624,101.325,1238.2,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+625,101.325,1238.2,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+626,101.325,1319.8,298.1,1-octyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+627,101.325,1320.8,298.15,1-octyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+628,101.325,1321.0,298.15,1-octyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+629,101.325,1104.4,298.15,1-methyl-3-octylimidazolium tetrafluoroborate
+630,101.325,1321.0,298.15,1-octyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+631,101.325,1104.4,298.15,1-methyl-3-octylimidazolium tetrafluoroborate
+633,101.325,1321.0,298.15,1-octyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+636,101.325,1325.4,298.15,1-hexyl-1-methylpiperidinium bis(trifluoromethanesulfonyl)imide
+637,101.325,1115.9,298.15,1-methyl-3-octylimidazolium ethyl sulfate
+639,101.325,1114.5,298.15,1-methyl-3-octylimidazolium methyl sulfate
+641,101.325,1236.3,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+643,101.325,1213.0,298.15,1-butyl-3-methylimidazolium methylsulfate
+645,101.325,1328.4,298.15,"1,3-dimethylimidazolium methylsulfate"
+647,101.325,1290.9,298.15,1-butyl-3-methylimidazolium bromide
+653,101.0,1280.4,298.15,1-ethyl-3-methylimidazolium tetrafluoroborate
+654,101.0,1283.7,298.15,1-ethyl-3-methylimidazolium tetrafluoroborate
+655,101.0,1340.2,298.15,1-hexyl-3-methylimidazolium iodide
+657,101.0,1008.8,298.15,1-methyl-3-octylimidazolium chloride
+659,101.0,1173.2,298.15,1-methyl-3-octylimidazolium bromide
+661,101.0,1484.0,298.15,1-butyl-3-methylimidazolium iodide
+663,101.0,1044.2,298.15,1-hexyl-3-methylimidazolium chloride
+665,101.0,1229.2,298.15,3-hexyl-1-methyl-1H-imidazolium bromide
+667,101.0,1233.6,298.15,1-methyl-3-octyl-1H-imidazolium iodide
+669,101.325,1183.5,298.15,1-butyl-4-methylpyridinium tetrafluoroborate
+671,101.325,1182.19,298.15,1-butyl-3-methylpyridinium tetrafluoroborate
+674,101.325,1325.4,298.15,1-hexyl-1-methylpiperidinium bis(trifluoromethanesulfonyl)imide
+675,101.325,1202.17,298.15,1-butyl-2-methylpyridinium tetrafluoroborate
+677,101.0,1202.9,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+679,101.325,,298.15,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+681,101.325,,298.15,1-ethyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+684,101.325,1194.34,298.15,1-nonyl-3-methylimidazolium hexafluorophosphate
+687,101.325,1236.8,298.15,1-octyl-3-methylimidazolium hexafluorophosphate
+691,101.325,1201.67,298.15,1-butyl-2-methylpyridinium tetrafluoroborate
+693,101.325,1183.2,298.15,1-butyl-3-methylpyridinium tetrafluoroborate
+695,101.325,1183.1,298.15,1-butyl-4-methylpyridinium tetrafluoroborate
+698,101.325,1367.2,298.15,1-butyl-3-methylimidazolium hexafluorophosphate
+700,101.325,1479.6,298.15,1-butyl-3-methylimidazolium iodide
+705,101.0,1367.9,298.15,1-butyl-3-methylimidazolium hexafluorophosphate
+708,101.0,1101.1,298.15,1-methyl-3-octylimidazolium tetrafluoroborate
+711,101.325,1109.3,298.15,"methyltrioctylammonium 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide"
+714,101.325,1034.0,298.15,1-hexyl-3-methylimidazolium chloride
+717,101.325,1012.0,298.15,1-methyl-3-octylimidazolium chloride
+721,101.325,1290.9,298.2,1-hexyl-3-methylimidazolium hexafluorophosphate
+724,101.0,1235.7,298.15,1-octyl-3-methylimidazolium hexafluorophosphate
+727,101.0,1212.2,298.15,1-butyl-3-methylimidazolium methylsulfate
+730,101.0,1327.2,298.15,"1,3-dimethylimidazolium methylsulfate"
+733,101.0,1367.3,298.15,1-butyl-3-methylimidazolium hexafluorophosphate
+736,101.0,1293.7,298.15,1-hexyl-3-methylimidazolium hexafluorophosphate
+739,101.0,1235.7,298.15,1-octyl-3-methylimidazolium hexafluorophosphate
+742,101.0,1327.2,298.15,"1,3-dimethylimidazolium methylsulfate"
+745,101.0,1367.3,298.15,1-butyl-3-methylimidazolium hexafluorophosphate
+748,101.0,1293.7,298.15,1-hexyl-3-methylimidazolium hexafluorophosphate
+751,101.0,1235.7,298.15,1-octyl-3-methylimidazolium hexafluorophosphate
+772,101.325,1368.0,298.15,1-butyl-3-methylimidazolium hexafluorophosphate
+783,101.0,1145.11,298.15,1-hexyl-3-methylimidazolium tetrafluoroborate
+786,101.0,1097.61,298.15,1-methyl-3-octylimidazolium tetrafluoroborate
+789,101.0,1368.0,298.15,1-butyl-3-methylimidazolium hexafluorophosphate
+792,101.0,1125.7,298.15,triethylammonium dihydrogen phosphate
+795,101.0,1142.89,298.15,triethylammonium hydrogen sulfate
+798,101.0,1015.9,298.15,triethylammonium acetate
+801,101.0,1021.5,298.15,diethylammonium acetate
+813,101.0,1394.5,298.15,1-butyl-1-methylpyrrolidinium bis[(trifluoromethyl)sulfonyl]imide
+816,101.0,1414.7,298.15,"1-butyl-3-methylpyridinium 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide"
+823,101.0,1279.41,298.15,1-butyl-3-methylpyridinium trifluoromethanesulfonate
+826,101.0,1060.17,298.15,1-butyl-3-methylimidazolium dicyanamide
+829,101.0,1028.6,298.15,1-hexyl-3-methylimidazolium dicyanamide
+832,101.0,1299.55,298.15,1-butyl-3-methylimidazolium trifluoromethanesulfonate
+835,101.0,1346.12,298.15,1-methylpyridinium methylsulfate
+838,101.0,1013.53,298.15,1-butyl-1-methylpyrrolidinium dicyanamide
+841,101.0,1219.26,298.15,"1,2-diethylpyridinium ethylsulfate"
+844,101.0,1252.98,298.15,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate
+849,101.0,1237.6,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+852,101.0,1008.8,298.15,1-methyl-3-octylimidazolium chloride
+876,101.325,1236.5,298.15,1-ethyl-3-methylimidazolium 2-(2-methoxyethoxy) ethylsulfate
+880,101.325,1008.0,298.15,trihexyltetradecylphosphonium tetrachloroferrate
+903,101.325,1236.5,298.15,1-ethyl-3-methylimidazolium 2-(2-methoxyethoxy) ethylsulfate
+906,101.325,1116.6,298.15,1-methyl-3-octylimidazolium 2-(2-methoxyethoxy)ethyl sulfate
+909,101.325,1190.6,298.15,1-butyl-3-methylimidazolium 2-(2-methoxyethoxy)ethyl sulfate
+913,101.0,,298.15,ethylammonium nitrate
+927,101.0,1194.0,298.15,1-butyl-3-methylimidazolium (S)-2-amino-4-carboxybutanoate
+931,101.325,1080.2,298.15,3-butyl-1-methyl-1H-imidazolium L-alaninate
+936,101.0,1042.2,298.15,1-hexyl-3-methylimidazolium chloride
+940,101.0,1016.0,298.15,1-methyl-3-octylimidazolium chloride
+948,101.325,1384.05,298.15,1-ethyl-3-methylimidazolium trifluoromethanesulfonate
+952,101.325,1518.38,298.15,1-ethyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+956,101.325,1278.3,298.15,1-decyl-3-methylimidazolium bis(trifluoromethylsulfonyl)amide
+960,101.325,1244.7,298.15,1-dodecyl-3-methyl-1H-imidazolium bis(trifluoromethylsulfonyl)amide
+964,101.325,1065.4,298.15,trihexyl(tetradecyl)phosphonium bis[(trifluoromethyl)sulfonyl]imide
+968,101.325,1318.9,298.15,1-octyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+972,101.325,1371.0,298.15,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+976,101.325,891.3,298.15,trihexyl(tetradecyl)phosphonium acetate
+980,101.325,1363.7,298.15,1-butyl-3-methylimidazolium hexafluorophosphate
+984,101.325,1292.4,298.15,1-hexyl-3-methylimidazolium hexafluorophosphate
+988,101.325,1234.0,298.15,1-octyl-3-methylimidazolium hexafluorophosphate
+992,101.325,1211.3,298.15,1-butyl-3-methylimidazolium methylsulfate
+996,101.325,1299.5,298.15,1-butyl-3-methylimidazolium trifluoromethanesulfonate
+1000,101.325,1199.4,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+1004,101.325,1053.2,298.15,1-butyl-3-methylimidazolium acetate
+1008,101.325,982.3,298.15,"trihexyltetradecylphosphonium 1,1,1-trifluoromethanesulfonate"
+1012,101.325,1514.7,298.15,1-ethyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+1016,101.325,1436.0,298.15,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+1035,101.3,1277.6,298.15,1-ethyl-3-methylimidazolium tetrafluoroborate
+1040,101.325,1279.9,298.15,1-ethyl-3-methylimidazolium tetrafluoroborate
+1043,101.3,1212.1,298.15,1-butyl-3-methylimidazolium methylsulfate
+1047,101.325,1185.0,298.15,1-butyl-4-methylpyridinium tetrafluoroborate
+1051,101.325,1065.0,298.15,1-butyl-3-methylimidazolium dicyanamide
+1055,101.325,1233.0,298.15,"1-methyl-3-octyl-1H-imidazol-3-ium 1,1,2,2-tetrafluoroethane-1-sulfonate"
+1060,101.325,1590.0,298.15,"1-ethyl-3-methylimidazolium 1,1,2,2,2-pentafluoro-N-[(pentafluoroethyl)sulfonyl]ethanesulfonamide"
+1064,101.325,1409.0,298.15,"1H-Imidazolium, 3-butyl-1-methyl-, 1,1,2,3,3,3-hexafluoro-1-propanesulfonate (1:1)"
+1068,101.325,1449.0,298.15,"1-butyl-3-methylimidazolium 2-(1,2,2,2-tetrafluoroethoxy)-1,1,2,2-tetrafluoroethanesulfonate"
+1072,101.325,1423.0,298.15,"1-butyl-3-methylimidazolium 1,1,2-trifluoro-2-(perfluoroethoxy)ethanesulfonate"
+1076,101.325,1393.0,298.15,"1-butyl-3-methylimidazolium 1,1,2-trifluoro-2-(trifluoromethoxy)ethanesulfonate"
+1080,101.325,1517.0,298.15,1-ethyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+1084,101.325,1412.0,298.15,"1-butyl-3-methylpyridinium 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide"
+1088,101.325,1444.0,298.15,3-methyl-1-propylpyridinium bis(trifluoromethylsulfonyl)imide
+1092,101.325,1597.0,298.15,"1,2-dimethyl-3-propylimidazolium tris(trifluoromethylsulfonyl)methide"
+1095,101.0,1102.0,298.1,1-ethyl-3-methylimidazolium acetate
+1099,101.0,1301.0,298.1,"1H-imidazolium, 1-ethyl-3-methyl-, salt with trifluoroacetic acid (1:1)"
+1104,101.325,1029.0,298.15,1-butyl-3-methylimidazolium ibuprofenate
+1109,101.0,1008.28,298.15,1-methyl-3-octyl-1H-imidazolium thiocyanate
+1113,101.0,1056.85,298.15,1-hexyl-3-methylimidazolium thiocyanate
+1123,101.325,1341.52,298.15,"1,3-dimethylimidazolium methylsulfate"
+1127,101.325,1157.0,298.15,1-hexyl-3-methylimidazolium methyl sulfate
+1131,101.325,1361.0,298.15,1-ethyl-3-methylimidazolium methylsulfate
+1135,101.325,1138.0,298.15,1-hexyl-3-methylimidazolium ethyl sulfate
+1139,101.325,1511.4,298.15,1-propyl-3-methylimidazolium methylsulfate
+1144,101.325,1280.0,298.15,1-ethyl-3-methylimidazolium tetrafluoroborate
+1148,101.325,1280.0,298.15,1-ethyl-3-methylimidazolium tetrafluoroborate
+1152,101.325,1279.9,298.15,1-ethyl-3-methylimidazolium tetrafluoroborate
+1156,101.325,1279.9,298.15,1-ethyl-3-methylimidazolium tetrafluoroborate
+1160,101.325,1280.0,298.15,1-ethyl-3-methylimidazolium tetrafluoroborate
+1164,101.325,1279.9,298.15,1-ethyl-3-methylimidazolium tetrafluoroborate
+1168,101.325,1279.9,298.15,1-ethyl-3-methylimidazolium tetrafluoroborate
+1172,101.325,1279.9,298.15,1-ethyl-3-methylimidazolium tetrafluoroborate
+1176,101.325,1279.9,298.15,1-ethyl-3-methylimidazolium tetrafluoroborate
+1180,101.325,1279.9,298.15,1-ethyl-3-methylimidazolium tetrafluoroborate
+1184,101.0,1279.9,298.15,1-ethyl-3-methylimidazolium tetrafluoroborate
+1187,101.0,1008.4,298.15,N-ethylpiperazinium propionate
+1192,101.0,1517.76,298.15,1-ethyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+1196,101.0,1434.23,298.15,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+1200,101.0,1371.64,298.15,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+1204,101.0,1129.6,298.15,3-ethyl-1-methyl-1H-imidazolium hexyl sulfate
+1208,101.0,1093.8,298.15,1-ethyl-3-methylimidazolium octyl sulfate
+1212,101.0,1175.7,298.15,3-ethyl-1-methylimidazolium butyl sulfate
+1216,101.0,1238.3,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+1219,101.325,1100.5,298.15,1-methyl-3-octylimidazolium tetrafluoroborate
+1233,101.325,1359.0,298.15,1-butyl-3-methylimidazolium hexafluorophosphate
+1237,101.325,1194.6,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+1239,101.325,1169.1,298.0,"1-phenyl-3,5-dimethyl-2-pentylpyrazolium methanesulfonate"
+1243,101.325,1141.6,298.0,"1-phenyl-3,5-dimethyl-2-hexylpyrazolium methanesulfonate"
+1247,101.325,1123.8,298.0,"1-phenyl-3,5-dimethyl-2-heptylpyrazolium methanesulfonate"
+1251,101.325,1158.5,298.0,"1-phenyl-3,5-dimethyl-2-pentylpyrazolium tetrafluoroborate"
+1255,101.325,1136.6,298.0,"1-phenyl-3,5-dimethyl-2-hexylpyrazolium tetrafluoroborate"
+1259,101.325,1247.0,298.0,"1-phenyl-2,3,5-trimethylpyrazolium methanesulfonate"
+1263,101.325,1186.2,298.0,"1-phenyl-2-butyl-3,5-dimethylpyrazolium methanesulfonate"
+1267,101.2,1250.3,298.15,triethyloctylammonium bis[(trifluoromethyl)sulfonyl]imide
+1271,101.2,1289.7,298.15,triethylhexylammonium bis((trifluoromethyl)sulfonyl)imide
+1275,101.2,1189.1,298.15,"N,N,N-triethyldodecan-1-aminium bis((trifluoromethyl)sulfonyl)amide"
+1279,101.325,,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+1307,101.325,1211.0,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+1311,101.0,1279.8,298.15,1-ethyl-3-methylimidazolium methylsulfate
+1315,101.0,1201.1,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+1319,101.0,1075.0,298.15,1-butyl-3-methylimidazolium chloride
+1323,101.0,1125.7,298.15,triethylammonium dihydrogen phosphate
+1327,101.0,1467.58,298.15,trimethylammonium hydrogen sulfate
+1331,101.0,1353.61,298.15,trimethylammonium dihydrogen phosphate
+1335,101.0,1053.85,298.15,trimethylammonium acetate
+1340,101.0,1437.0,298.15,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+1343,101.325,1040.92,298.15,1-hexyl-3-methylimidazolium chloride
+1347,101.325,1012.35,298.15,1-methyl-3-octylimidazolium chloride
+1351,101.325,1081.59,298.15,1-butyl-3-methylimidazolium chloride
+1355,101.0,1467.6,298.15,trimethylammonium hydrogen sulfate
+1359,101.0,1353.6,298.15,trimethylammonium dihydrogen phosphate
+1363,101.0,1053.8,298.15,trimethylammonium acetate
+1399,101.325,1211.0,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+1415,101.0,1593.2,298.15,"1-ethyl-3-methylimidazolium 1,1,2,2,2-pentafluoro-N-[(pentafluoroethyl)sulfonyl]ethanesulfonamide"
+1420,101.325,1372.0,298.15,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+1423,101.0,1286.0,298.15,1-ethyl-3-methylimidazolium methylsulfate
+1428,101.325,1279.9,298.15,1-ethyl-3-methylimidazolium tetrafluoroborate
+1463,101.325,1106.9,298.15,"methyltrioctylammonium 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide"
+1476,101.325,1370.7,298.15,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+1504,101.0,1201.4,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+1509,101.0,1366.7,298.15,1-butyl-3-methylimidazolium hexafluorophosphate
+1530,101.325,1211.0,298.1,N-methyl-N-propylpropan-1-aminium trifluoromethanesulfonate
+1545,101.325,1101.5,298.15,n-butylammonium nitrate
+1550,101.325,956.44,298.15,butylammonium acetate
+1555,101.0,956.44,298.15,butylammonium acetate
+1560,101.0,1101.52,298.15,n-butylammonium nitrate
+1600,101.325,1149.0,298.15,1-butyl-3-methylimidazolium salicylate
+1606,101.0,1201.3,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+1611,101.0,1290.0,298.15,1-ethyl-3-methylimidazolium tetrafluoroborate
+1629,101.325,1282.1,298.03,1-ethyl-3-methylimidazolium methylsulfate
+1640,101.325,1570.0,298.15,"1,3-dimethylimidazolium bis((trifluoromethyl)sulfonyl)amide"
+1644,101.0,1200.6,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+1650,101.325,1236.89,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+1655,101.0,1070.34,298.15,1-butyl-3-methylimidazolium thiocyanate
+1664,101.325,1100.8,298.15,1-ethyl-3-methylimidazolium dicyanamide
+1669,101.325,1202.4,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+1674,101.325,1288.8,298.15,1-ethyl-3-methylimidazolium tetrafluoroborate
+1679,101.325,1519.3,298.15,1-ethyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+1686,101.325,1224.0,298.15,3-hexyl-1-methyl-1H-imidazolium bromide
+1691,101.0,1316.2,298.15,1-methyl-3-propylimidazolium bromide
+1694,101.0,1006.7,298.15,"1,1-dimethyl-4-phenylpiperazinium iodide"
+1705,101.325,1075.33,298.15,1-methylimidazolium acetate
+1710,101.325,1518.0,298.0,1-ethyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+1715,101.325,1449.0,298.0,1-butylpyridinium bis[(trifluoromethyl)sulfonyl]imide
+1720,101.325,1279.0,298.0,1-ethyl-3-methylimidazolium tetrafluoroborate
+1725,101.325,1200.55,298.0,1-butyl-2-methylpyridinium tetrafluoroborate
+1750,101.325,1206.3,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+1754,101.0,888.0,298.15,"N-methyl-N,N-dioctyl-1-octanaminium chloride"
+1760,101.325,1202.0,298.15,diethanolammonium formate
+1770,101.0,1210.2,298.15,2-aminoethanol-2-hydroxypropanoate
+1785,101.0,1052.0,298.15,1-butyl-3-methylimidazolium acetate
+1790,101.325,958.2,298.15,tetradecyltrihexylphosphonium bromide
+1804,101.0,1181.1,298.15,1-butyl-4-methylpyridinium tetrafluoroborate
+1805,101.0,1182.7,298.15,1-butyl-4-methylpyridinium tetrafluoroborate
+1809,101.0,1074.4,298.15,1-butyl-3-methylimidazolium chloride
+1814,101.0,1028.4,298.15,diethylammonium hydrogen sulfate
+1845,101.0,1516.96,298.15,1-ethyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+1850,101.0,1436.83,298.15,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+1855,101.0,1434.44,298.15,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+1884,101.0,1069.8,298.15,1-butyl-3-methylimidazolium thiocyanate
+1905,101.0,1075.33,298.15,1-methylimidazolium acetate
+1910,101.325,897.6,298.15,tetradecyl(trihexyl)phosphonium dicyanamide
+1915,101.325,1060.5,298.15,1-butyl-3-methylimidazolium dicyanamide
+1920,101.325,1372.2,298.15,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+1966,101.325,1368.4,298.2,1-butyl-3-methylimidazolium hexafluorophosphate
+1972,101.325,1435.6,298.2,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+1978,101.325,1199.4,298.2,1-butyl-3-methylimidazolium tetrafluoroborate
+1990,101.325,1303.0,298.1,"N,N-dimethylprop-2-en-1-aminium trifluoromethanesulfonate"
+1996,101.325,1222.0,298.1,"N,N-diethylpropan-1-aminium trifluoromethanesulfonate"
+2002,101.325,1253.0,298.1,N-allyl-N-methylprop-2-en-1-aminium trifluoromethanesulfonate
+2008,101.325,1255.0,298.1,"N,N-diethylprop-2-en-1-aminium trifluoromethanesulfonate"
+2014,101.325,1284.0,298.1,diethylmethylammonium trifluoromethanesulfonate
+2020,101.325,1276.0,298.1,"N,N-dimethylpropan-1-aminium trifluoromethanesulfonate"
+2024,101.325,1100.2,298.15,1-butyl-3-methylimidazolium lactate
+2030,101.325,1128.5,298.15,1-butyl-3-methylimidazolium glycinate
+2036,101.325,1129.3,298.15,1-butyl-3-methylimidazolium glycolate
+2042,101.325,1105.2,298.15,3-butyl-1-methylimidazolium benzoate
+2048,101.325,1073.41,298.15,3-butyl-1-methyl-1H-imidazolium formate
+2054,101.325,1032.22,298.15,3-butyl-1-methyl-1H-imidazolium butanoate
+2060,101.325,1034.91,298.15,3-butyl-1-methyl-1H-imidazolium propanoate
+2072,101.325,1708.0,298.15,1-ethyl-3-methylimidazolium tris(pentafluoroethyl)trifluorophosphate
+2084,101.0,986.8,298.15,(3-aminopropyl)tributylphosphonium L-alaninate
+2090,101.0,971.9,298.15,(3-aminopropyl)tributylphosphonium L-leucinate
+2096,101.0,980.7,298.15,(3-aminopropyl)tributylphosphonium L-valinate
+2104,101.325,1063.8,298.15,1-butyl-3-methylimidazolium octyl sulfate
+2110,101.325,1104.6,298.15,"methyltrioctylammonium 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide"
+2116,101.325,1241.0,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+2122,101.325,1519.0,298.15,1-ethyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+2128,101.325,1394.0,298.15,butyltrimethylammonium bis(trifluoromethylsulfonyl)imide
+2133,101.325,1296.7,298.15,1-butyl-3-methylimidazolium trifluoromethanesulfonate
+2140,101.325,1383.6,298.15,1-ethyl-3-methylimidazolium trifluoromethanesulfonate
+2150,101.325,1210.5,298.08,1-butyl-3-methylimidazolium methylsulfate
+2158,101.325,1298.0,298.15,1-butyl-3-methylimidazolium trifluoromethanesulfonate
+2164,101.325,1368.0,298.15,1-butyl-3-methylimidazolium hexafluorophosphate
+2170,101.325,1217.0,298.15,1-butyl-3-methylimidazolium trifluoroacetate
+2176,101.325,1202.0,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+2182,101.325,1519.0,298.15,1-ethyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+2188,101.325,1437.0,298.15,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+2194,101.325,1320.0,298.15,1-octyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+2200,101.325,1395.0,298.15,1-butyl-1-methylpyrrolidinium bis[(trifluoromethyl)sulfonyl]imide
+2206,101.325,1449.0,298.15,1-butylpyridinium bis[(trifluoromethyl)sulfonyl]imide
+2212,101.325,1393.0,298.15,butyltrimethylammonium bis(trifluoromethylsulfonyl)imide
+2218,101.325,1514.0,298.15,1-butyl-3-methylimidazolium bis(perfluoroethylsulfonyl)imide
+2224,101.325,1371.0,298.15,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+2247,101.325,1435.99,298.15,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+2253,101.325,1201.33,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+2259,101.325,1208.6,298.15,1-butyl-3-methylimidazolium methylsulfate
+2264,101.0,1098.3,298.15,1-ethyl-3-methylimidazolium acetate
+2271,101.0,1146.0,298.15,1-ethyl-3-methylimidazolium diethylphosphate
+2277,101.0,1250.0,298.15,"1,3-dimethylimidazolium dimethylphosphate"
+2312,101.0,1369.8,298.15,1-butyl-3-methylimidazolium hexafluorophosphate
+2408,101.325,1675.7,298.15,4-(2-methoxyethyl)-4-methylmorpholinium trifluorotris(perfluoroethyl)phosphate
+2414,101.325,1607.35,298.15,1-(2-methoxyethyl)-1-methylpiperidinium trifluorotris(perfluoroethyl)phosphate
+2420,101.325,1630.36,298.15,1-(2-methoxyethyl)-1-methylpyrrolidinium tris(pentafluoroethyl)trifluorophosphate
+2450,101.325,,298.15,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+2451,101.325,,298.15,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+2456,101.325,,298.15,1-octyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+2457,101.325,,298.15,1-octyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+2458,101.325,,298.15,1-octyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+2462,101.325,,298.15,1-butyl-3-methylimidazolium hexafluorophosphate
+2463,101.325,,298.15,1-butyl-3-methylimidazolium hexafluorophosphate
+2464,101.325,,298.15,1-butyl-3-methylimidazolium hexafluorophosphate
+2492,101.0,1367.23,298.15,1-butyl-3-methylimidazolium hexafluorophosphate
+2498,101.0,1198.8,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+2504,101.325,1300.0,298.2,1-butyl-3-methylimidazolium bromide
+2510,101.325,1200.0,298.2,1-butyl-3-methylimidazolium tetrafluoroborate
+2516,101.325,1460.0,298.2,1-butyl-3-methylimidazolium iodide
+2522,101.325,1460.0,298.15,1-butyl-3-methylimidazolium iodide
+2528,101.325,1200.0,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+2535,101.325,977.6610000000001,298.15,benzyldimethylammonium propionate
+2541,101.325,940.715,298.15,benzyldimethylammonium hexanoate
+2547,101.325,1000.89,298.15,"N,N-dimethylbenzylammonium acetate"
+2558,101.325,1258.7,298.15,"1,3-dimethylimidazolium dimethylphosphate"
+2570,101.325,1360.3,298.2,1-butyl-3-methylimidazolium hexafluorophosphate
+2576,101.325,1224.5,298.2,1-octyl-3-methylimidazolium hexafluorophosphate
+2582,101.325,1091.2,298.2,1-methyl-3-octylimidazolium tetrafluoroborate
+2588,101.325,1214.4,298.2,1-butylpyridinium tetrafluoroborate
+2601,101.0,1363.5,298.15,1-butyl-3-methylimidazolium hexafluorophosphate
+2613,101.325,1297.6,298.15,1-butyl-3-methylimidazolium trifluoromethanesulfonate
+2619,101.325,1385.3,298.15,1-ethyl-3-methylimidazolium trifluoromethanesulfonate
+2625,101.325,1207.4,298.15,1-butyl-3-methylimidazolium methylsulfate
+2631,101.325,1237.2,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+2637,101.325,1145.3,298.15,1-hexyl-3-methylimidazolium tetrafluoroborate
+2643,101.325,1204.1,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+2649,101.325,1237.2,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+2655,101.325,1207.4,298.15,1-butyl-3-methylimidazolium methylsulfate
+2661,101.325,1297.6,298.15,1-butyl-3-methylimidazolium trifluoromethanesulfonate
+2667,101.325,1385.3,298.15,1-ethyl-3-methylimidazolium trifluoromethanesulfonate
+2673,101.325,1145.3,298.15,1-hexyl-3-methylimidazolium tetrafluoroborate
+2679,101.325,1237.2,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+2685,101.325,1385.3,298.15,1-ethyl-3-methylimidazolium trifluoromethanesulfonate
+2691,101.325,1297.6,298.15,1-butyl-3-methylimidazolium trifluoromethanesulfonate
+2697,101.325,1207.4,298.15,1-butyl-3-methylimidazolium methylsulfate
+2703,101.325,1204.1,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+2738,101.325,1491.0,298.1,1-benzyl-3-methyl-1H-imidazol-3-ium bis((trifluoromethyl)sulfonyl)amide
+2744,101.325,1436.0,298.1,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+2750,101.325,1368.0,298.1,1-butyl-3-methylimidazolium hexafluorophosphate
+2762,101.325,1006.71,298.15,1-butyl-1-methylpyrrolidinium tricyanomethanide
+2774,101.325,1153.1,298.15,1-hexyloxymethyl-3-methylimidazolium tetrafluoroborate
+2780,101.325,1254.9,298.15,"1,3-dihexyloxymethylimidazolium (bis(trifluoromethyl)sulfonyl)imide"
+2804,101.0,1069.8,298.15,1-butyl-3-methylimidazolium thiocyanate
+2810,101.325,891.05,298.15,trihexyltetradecylphosphonium tetracyanoborate
+2816,101.0,1024.77,298.15,1-butyl-1-methylpyrrolidinium thiocyanate
+2822,101.0,1061.27,298.15,1-butyl-4-methylpyridinium thiocyanate
+2828,101.0,1069.8,298.15,1-butyl-3-methylimidazolium thiocyanate
+2834,101.0,1069.8,298.15,1-butyl-3-methylimidazolium thiocyanate
+2918,101.325,1234.0,298.15,1-ethyl-3-methylimidazolium methanesulfonate
+2931,101.0,1089.6,298.15,choline cyclopentane carboxylate
+2938,101.0,1067.8,298.15,"2-hydroxy-N,N,N-trimethylethan-1-aminium cyclohexanecarboxylate"
+2945,101.0,1261.3,298.15,"1,3-dimethylimidazolium dimethylphosphate"
+2953,101.325,1059.62,298.15,1-butyl-3-methylimidazolium dicyanamide
+2960,101.325,1297.4,298.15,1-butyl-3-methylimidazolium trifluoromethanesulfonate
+2967,101.325,1368.3,298.15,1-butyl-3-methylimidazolium hexafluorophosphate
+2974,101.325,1215.5,298.15,1-butyl-3-methylimidazolium trifluoroacetate
+2980,101.325,1518.25,298.15,1-ethyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+2988,101.325,1229.6,298.2,1-ethyl-3-methylimidazolium ethyl sulfate
+3003,101.325,1345.4,298.15,1-heptyl-3-methylimidazolium bis(trifluoromethylsulfonyl)amide
+3010,101.325,1475.6,298.15,1-methyl-3-propylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+3017,101.325,1436.9,298.15,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+3024,101.325,1403.6,298.15,1-methyl-3-pentylimidazolium bis(trifluoromethylsulfonyl)imide
+3031,101.325,1372.7,298.15,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+3038,101.325,1477.6,298.15,1-methyl-3-(1-methylethyl)imidazolium bis[(trifluoromethyl)sulfonyl]imide
+3045,101.325,1344.2,298.15,1-(5-methylhexyl)-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+3052,101.325,1372.4,298.15,1-(4-methylpentyl)-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+3059,101.325,1403.3,298.15,1-(3-methylbutyl)-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+3066,101.325,1436.3,298.15,1-isobutyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]amide
+3072,101.325,1118.49,298.15,1-ethylpyridinium dicyanamide
+3078,101.325,1125.0,298.15,"1,3-diethyl-1H-imidazol-3-ium diethyl phosphate"
+3085,101.325,1146.4,298.15,1-ethyl-3-methylimidazolium diethylphosphate
+3092,101.325,1258.3,298.15,"1,3-dimethylimidazolium dimethylphosphate"
+3100,101.325,1436.0,298.0,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+3101,101.325,1437.0,298.15,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+3113,101.325,1625.32,298.15,1-butyl-3-methylimidazolium tris(pentafluoroethyl)trifluorophosphate
+3120,101.325,1434.3,298.15,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+3127,101.325,1434.3,298.15,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+3135,101.325,1262.2,298.15,3-butyl-1-ethyl-1H-imidazolium trifluoromethanesulfonate (1:1)
+3142,101.325,1252.26,298.15,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate
+3149,101.325,1383.6,298.15,1-ethyl-3-methylimidazolium trifluoromethanesulfonate
+3156,101.325,1081.38,298.15,1-ethyl-3-methyl-1H-imidazolium tricyanomethanide
+3190,101.325,1192.1,298.15,1-butyl-3-methylimidazolium taurate
+3197,101.0,1229.7,298.15,3-(2-cyanoethyl)-1-hexyl-1H-imidazolium bromide
+3204,101.0,1230.5,298.15,3-(2-cyanoethyl)-1-hexyl-1H-imidazolium bromide
+3212,101.325,1202.1,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+3219,101.325,1280.1,298.15,1-ethyl-3-methylimidazolium tetrafluoroborate
+3226,101.325,1103.6,298.15,1-methyl-3-octylimidazolium tetrafluoroborate
+3233,101.325,1146.2,298.15,1-hexyl-3-methylimidazolium tetrafluoroborate
+3282,101.0,1182.4,298.13,1-butyl-3-methylpyridinium tetrafluoroborate
+3289,101.325,1518.34,298.15,1-ethyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+3296,101.0,1145.1,298.15,1-hexyl-3-methylimidazolium tetrafluoroborate
+3315,101.325,1308.0,298.15,1-(2-hydroxyethyl)-3-methylimidazolium tetrafluoroborate
+3322,101.0,1238.68,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+3329,101.0,1099.04,298.15,1-ethyl-3-methylimidazolium acetate
+3337,101.325,1474.2,298.15,1-methyl-3-propylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+3345,101.325,1193.34,298.15,"1-butyl-2,3-dimethylimidazolium tetrafluoroborate"
+3352,101.325,1176.8,298.15,1-methyl-3-pentyl-imidazolium tetrafluoroborate
+3359,101.325,1256.9,298.15,1-pentyl-3-methylimidazolium bromide
+3366,101.325,1223.82,298.15,3-hexyl-1-methyl-1H-imidazolium bromide
+3373,101.325,1148.26,298.15,1-hexyl-3-methylimidazolium tetrafluoroborate
+3380,101.325,1294.69,298.15,1-hexyl-3-methylimidazolium hexafluorophosphate
+3387,101.0,1199.4,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+3448,101.325,1372.1,298.15,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+3455,101.325,1145.3,298.15,1-hexyl-3-methylimidazolium tetrafluoroborate
+3462,101.325,1293.4,298.15,1-hexyl-3-methylimidazolium hexafluorophosphate
+3470,101.325,1218.9,298.15,1-octyl-3-methylimidazolium hexafluorophosphate
+3477,101.325,1287.3,298.15,1-hexyl-3-methylimidazolium hexafluorophosphate
+3518,101.325,1182.2,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+3582,101.325,1097.6,298.15,1-methyl-3-octylimidazolium tetrafluoroborate
+3589,101.325,1145.1,298.15,1-hexyl-3-methylimidazolium tetrafluoroborate
+3602,101.0,1229.2,298.15,3-methyl-1-propyl-1H-imidazolium (S)-2-amino-4-carboxybutanoate
+3617,101.0,1160.5,298.15,3-butyl-1-(2-cyanoethyl)-imidazolium thiocyanate
+3624,101.0,1167.0,298.15,1-allyl-3-methylimidazolium thiocyanate
+3631,101.0,1069.7,298.15,1-butyl-3-methylimidazolium thiocyanate
+3645,101.325,1583.15,298.15,1-butyl-1-methylpyrrolidinium tris(pentafluoroethyl)trifluorophosphate
+3652,101.325,1366.4,298.15,"1-(2-hydroxyethyl)-3-methyl-1H-imidazolium 2,2,2-trifluoroacetate"
+3659,101.325,1365.8,298.15,1-ethyl-3-methylimidazolium hydrogen sulfate
+3666,101.325,1243.8,298.15,1-ethyl-3-methylimidazolium methanesulfonate
+3673,101.325,1115.96,298.15,1-ethyl-3-methylimidazolium thiocyanate
+3680,101.325,1145.47,298.15,1-ethyl-3-methylimidazolium diethylphosphate
+3687,101.325,1007.43,298.15,tributylethylphosphonium diethylphosphate
+3694,101.325,1287.8,298.15,1-ethyl-3-methylimidazolium methylsulfate
+3714,101.325,1036.27,298.15,1-ethyl-3-methylimidazolium tetracyanoborate
+3721,101.325,1239.96,298.15,1-ethyl-3-methylimidazolium methanesulfonate
+3728,101.0,1193.19,298.15,"1-butyl-2,3-dimethylimidazolium tetrafluoroborate"
+3736,101.325,1140.3,298.15,"2-hydroxy-N,N,N-trimethylethanaminium (S)-2-hydroxypropanoate"
+3743,101.325,1196.4,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+3750,101.325,1367.7,298.15,1-butyl-3-methylimidazolium hexafluorophosphate
+3758,101.0,1099.0,298.15,1-ethyl-3-methylimidazolium acetate
+3764,101.325,1236.81,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+3772,101.325,1036.44,298.15,1-ethyl-3-methylimidazolium tetracyanoborate
+3792,101.325,1297.0,298.15,1-butyl-3-methylpyridinium trifluoromethanesulfonate
+3799,101.325,1532.0,298.15,1-ethylpyridinium bis[(trifluoromethyl)sulfonyl]imide
+3806,101.325,1456.0,298.15,1-butylpyridinium bis[(trifluoromethyl)sulfonyl]imide
+3813,101.325,1382.0,298.15,1-hexylpyridinium bis(trifluromethylsulfonyl)imide
+3820,101.325,1476.0,298.15,1-butyl-2-methylpyridinium bis((trifluoromethyl)sulfonyl)amide
+3827,101.325,1586.0,298.15,1-butyl-3-methylpyridinium tris(pentafluoroethyl)trifluorophosphate
+3834,101.325,1177.0,298.15,1-butyl-3-methylpyridinium tetrafluoroborate
+3841,101.325,1413.0,298.15,1-butyl-4-methylpyridinium bis((trifluoromethyl)sulfonyl)amide
+3848,101.325,1425.0,298.15,"1-butyl-3-methylpyridinium 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide"
+3855,101.325,1516.4,298.15,1-ethyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+3861,101.325,1069.0,298.15,triisobutylmethylphosphonium p-toluenesulfonate
+3914,101.325,1536.1,298.15,4-(3-hydroxypropyl)-4-methylmorpholinium bis(trifluoromethylsulfonyl)amide
+3930,101.325,1340.7,298.15,N-butylpyridinium heptachlorodialuminate
+3947,101.0,1200.57,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+4043,101.0,1404.8,298.15,1-ethylpyridinium triflate
+4132,101.0,1182.4,298.13,1-butyl-3-methylpyridinium tetrafluoroborate
+4140,101.0,1384.0,298.15,1-ethyl-3-methylimidazolium trifluoromethanesulfonate
+4148,101.0,1291.0,298.15,"1H-imidazolium, 1-ethyl-3-methyl-, salt with trifluoroacetic acid (1:1)"
+4156,101.0,1237.4,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+4187,101.325,891.0,298.15,"trihexyltetradecylphosphonium bis(2,4,4-trimethylpentyl)phosphinate"
+4195,101.325,1344.0,298.15,tris(2-hydroxyethyl) methylammonium methylsulfate
+4203,101.325,1116.0,298.15,1-ethyl-3-methylimidazolium thiocyanate
+4211,101.325,1098.0,298.15,1-ethyl-3-methylimidazolium acetate
+4219,101.325,1241.0,298.15,1-ethyl-3-methylimidazolium methanesulfonate
+4227,101.325,1233.0,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+4244,101.325,1219.0,298.15,diethanolammonium formate
+4250,101.0,1100.8,298.15,1-ethyl-3-methylimidazolium acetate
+4258,101.0,1236.5,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+4284,101.0,1199.0,298.15,1-hexyl-3-methylimidazolium ethyl sulfate
+4285,101.0,1201.0,298.15,1-hexyl-3-methylimidazolium ethyl sulfate
+4292,101.0,1235.0,298.15,1-butyl-3-methyl-1H-imidazolium ethyl sulfate
+4293,101.0,1238.0,298.15,1-butyl-3-methyl-1H-imidazolium ethyl sulfate
+4300,101.0,1212.0,298.15,1-hexyl-3-methylimidazolium methyl sulfate
+4301,101.0,1215.0,298.15,1-hexyl-3-methylimidazolium methyl sulfate
+4306,101.325,1764.54,298.15,3-(2-hydroxyethyl)-1-methyl-1H-imidazolium trifluorotris(perfluoroethyl)phosphate(V)
+4362,101.325,,298.15,1-decyl-3-methylimidazolium bis(trifluoromethylsulfonyl)amide
+4363,101.325,,298.15,1-decyl-3-methylimidazolium bis(trifluoromethylsulfonyl)amide
+4364,101.325,,298.15,1-decyl-3-methylimidazolium bis(trifluoromethylsulfonyl)amide
+4365,101.325,,298.15,1-decyl-3-methylimidazolium bis(trifluoromethylsulfonyl)amide
+4371,101.325,1071.04,298.15,1-butyl-3-methylimidazolium thiocyanate
+4379,101.325,1117.0,298.15,1-ethyl-3-methylimidazolium thiocyanate
+4387,101.325,1060.76,298.15,1-butyl-3-methylimidazolium dicyanamide
+4395,101.325,1081.6,298.15,1-ethyl-3-methyl-1H-imidazolium tricyanomethanide
+4403,101.325,1101.3,298.15,1-ethyl-3-methylimidazolium dicyanamide
+4419,101.325,1046.8,298.15,1-butyl-3-methylimidazolium tricyanomethane
+4458,101.325,883.0,298.15,trihexyl(tetradecyl)phosphonium chloride
+4466,101.325,1285.0,298.15,"N-Hexyl-N,N-dimethyl-1-propanaminium bis[(trifluoromethyl)sulfonyl]imide"
+4474,101.325,1201.0,298.15,"N,N-dimethyl-N-propyldecanaminium 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide"
+4482,101.325,1082.0,298.15,"methyltrioctylammonium 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide"
+4490,101.325,1375.0,298.15,butyltrimethylammonium bis(trifluoromethylsulfonyl)imide
+4498,101.325,1311.0,298.15,hexyltrimethylammonium bis[(trifluoromethyl)sulfonyl]imide
+4506,101.325,1348.0,298.15,"N,N-dimethyl-N-propyl-1-butanaminium 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide"
+4514,101.325,938.0,298.15,tributyl(tetradecyl)phosphonium 2-dodecylbenzenesulfonate
+4522,101.325,998.0,298.15,tributylethylphosphonium diethylphosphate
+4530,101.325,1050.0,298.15,trihexyl(tetradecyl)phosphonium bis[(trifluoromethyl)sulfonyl]imide
+4538,101.325,921.0,298.15,tetradecyl(trihexyl)phosphonium dicyanamide
+4546,101.325,1226.0,298.15,"N,N,N-Trimethyl-1-decanaminium bis[(trifluoromethyl)sulfonyl]imide"
+4554,101.325,1279.0,298.15,triethylhexylammonium bis((trifluoromethyl)sulfonyl)imide
+4562,101.325,1536.0,298.15,1-ethylpyridinium bis[(trifluoromethyl)sulfonyl]imide
+4571,101.325,1089.5,298.15,1-octylpyridinium nitrate
+4651,101.0,1286.8,298.15,1-ethyl-3-methylimidazolium tetrafluoroborate
+4659,101.0,1145.29,298.15,1-hexyl-3-methylimidazolium tetrafluoroborate
+4675,101.0,1192.1,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+4683,101.0,1367.2,298.15,1-butyl-3-methylimidazolium hexafluorophosphate
+4716,101.325,1427.83,298.15,1-methyl-1-propylpyrrolidinium bis[(trifluoromethyl)sulfonyl]imide
+4724,101.325,1394.49,298.15,1-butyl-1-methylpyrrolidinium bis[(trifluoromethyl)sulfonyl]imide
+4732,101.325,1222.0,298.15,3-butyl-1-methyl-1H-imidazolium tetrakis(isothiocyanato)cobaltate(2-)
+4740,101.0,1367.4,298.15,1-butyl-3-methylimidazolium hexafluorophosphate
+4746,101.0,1225.0,298.15,"1,2-dimethyl-3-propylimidazolium tetrafluoroborate"
+4772,101.325,1059.7,298.13,1-butyl-3-methylimidazolium dicyanamide
+4780,101.325,1518.37,298.15,1-ethyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+4795,101.0,1286.8,298.15,1-ethyl-3-methylimidazolium tetrafluoroborate
+4803,101.0,1200.89,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+4826,101.3,1168.0,298.15,pyrrolidinium nitrate
+4835,101.325,1317.6,298.15,1-butyl-3-pentylimidazolium bis((trifluoromethyl)sulfonyl)imide
+4843,101.325,1318.1,298.15,1-butyl-3-isopentylimidazolium bis((trifluoromethyl)sulfonyl)amide
+4851,101.325,1378.5,298.15,1-cyclopentyl-3-butylimidazolium bis((trifluoromethyl)sulfonyl)imide
+4860,101.0,1039.2,298.15,N-methyl-2-hydroxyethylammonium butanoate
+4866,101.325,1190.0,298.15,1-butyl-4-methylpyridinium tetrafluoroborate
+4874,101.325,1068.0,298.15,triisobutylmethylphosphonium p-toluenesulfonate
+4882,101.325,1292.0,298.15,1-ethyl-3-methylimidazolium methylsulfate
+4890,101.325,1329.0,298.15,"1,3-dimethylimidazolium methylsulfate"
+4898,101.325,1010.0,298.15,1-methyl-3-octylimidazolium chloride
+4906,101.325,1234.0,298.15,1-octyl-3-methylimidazolium hexafluorophosphate
+4914,101.325,1292.0,298.15,1-hexyl-3-methylimidazolium hexafluorophosphate
+4922,101.325,1367.0,298.15,1-butyl-3-methylimidazolium hexafluorophosphate
+4930,101.325,1224.0,298.15,1-butyl-3-methylimidazolium hydrogen sulfate
+4947,101.325,1202.0,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+4956,101.325,1236.0,298.15,1-propyl-3-methylimidazolium tetrafluoroborate
+4965,101.325,1280.0,298.15,1-ethyl-3-methylimidazolium tetrafluoroborate
+4974,101.325,1146.0,298.15,1-hexyl-3-methylimidazolium tetrafluoroborate
+4983,101.325,1172.0,298.15,1-methyl-3-pentyl-imidazolium tetrafluoroborate
+4992,101.325,1181.5,298.15,1-methyl-3-propyl-1H-imidazol-3-ium L-serinate
+5001,101.325,1156.0,298.15,3-butyl-1-methyl-1H-imidazol-3-ium L-serinate
+5012,101.325,1212.6,298.0,1-butylpyridinium tetrafluoroborate
+5049,101.325,1366.1,298.15,1-butyl-3-methylimidazolium hexafluorophosphate
+5239,101.325,1052.6,298.15,1-butyl-3-methylimidazolium acetate
+5272,101.0,1353.1,298.15,"1-hexyl-2,3-dimethylimidazolium bis[(trifluoromethyl)sulfonyl]imide"
+5282,101.325,1109.0,298.15,1-ethyl-3-methylimidazolium acetate
+5291,101.325,1056.0,298.15,1-butyl-3-methylimidazolium acetate
+5301,101.325,1201.3,298.14799999999997,1-butyl-3-methylimidazolium tetrafluoroborate
+5311,101.325,1293.7,298.15,1-hexyl-3-methylimidazolium hexafluorophosphate
+5318,101.0,1201.8,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+5336,101.0,1099.0,298.15,1-ethyl-3-methylimidazolium acetate
+5345,101.0,1708.84,298.15,1-ethyl-3-methylimidazolium tris(pentafluoroethyl)trifluorophosphate
+5352,101.0,1367.9,298.15,1-butyl-3-methylimidazolium hexafluorophosphate
+5361,101.0,1279.6,298.15,1-ethyl-3-methylimidazolium tetrafluoroborate
+5370,101.0,1207.9,298.15,1-butyl-3-methylimidazolium methylsulfate
+5391,101.325,892.8,298.15,trihexyl(tetradecyl)phosphonium chloride
+5406,101.0,1101.9,298.15,1-ethyl-3-methylimidazolium acetate
+5415,101.0,1047.4,298.15,1-butyl-3-methylimidazolium acetate
+5424,101.0,1030.1,298.15,1-methyl-3-pentylimidazolium acetate
+5433,101.0,1079.4,298.15,1-propyl-3-methylimidazolium acetate
+5442,101.0,1017.0,298.15,3-hexyl-1-methylimidazolium acetate
+5451,101.325,1455.0,298.15,1-butylpyridinium bis[(trifluoromethyl)sulfonyl]imide
+5473,101.325,1370.8,299.0,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+5482,101.325,1209.4,299.0,1-butyl-3-methylimidazolium methylsulfate
+5488,101.0,1111.2,298.15,1-butyl-3-methylimidazolium L-lactate
+5497,101.325,1157.4,298.15,"1,3-dimethylimidazolium thiocyanate"
+5506,101.325,1631.2,298.15,1-(cyanomethyl)pyridin-1-ium bis((trifluoromethyl)sulfonyl)amide
+5515,101.325,1537.8,298.15,1-(cyanomethyl)-1-methylpyrrolidinium bis((trifluoromethyl)sulfonyl)imide
+5524,101.325,1551.8,298.15,1-hexyl-3-methylimidazolium tris(pentafluoroethyl)trifluorophosphate
+5533,101.325,1633.0,298.15,1-butylpyridinium trifluorotris(perfluoroethyl)phosphate
+5606,101.0,1020.51,298.15,1-methyl-3-pentylimidazolium propanoate
+5615,101.0,1035.27,298.15,3-butyl-1-methyl-1H-imidazolium propanoate
+5624,101.0,1052.6,298.15,1-propyl-3-methylimidazolium propionate
+5633,101.0,1007.35,298.15,1-hexyl-3-methylimidazolium propanoate
+5695,101.325,1161.94,298.15,1-butyl-3-methyl-1H-imidazolium dimethylphosphate
+5704,101.325,1220.0,298.15,1-ethyl-3-methylimidazolium dimethylphosphate
+5758,101.325,979.7,298.15,"N,N-dibutyl-N-methyl-1-butanaminium L-lysinate"
+5767,101.325,999.5,298.15,"N,N-dibutyl-N-methyl-1-butanaminium L-threoninate"
+5776,101.325,1051.1,298.15,"N,N-dibutyl-N-methyl-1-butanaminium 2-aminoethanesulfonate"
+5785,101.325,1015.7,298.15,"N,N-dibutyl-N-methylbutanaminium L-serinate"
+5794,101.325,1033.7,298.15,tetrabutylphosphonium L-cysteinate
+5803,101.325,992.5,298.15,tetrabutylphosphonium L-prolinate
+5812,101.325,979.9,298.15,tetrabutylphosphonium L-threoninate
+5821,101.325,967.5,298.15,tetrabutylphosphonium L-lysinate
+5830,101.325,1026.8,298.15,tetrabutylphosphonium 2-aminoethanesulfonate
+5839,101.325,992.3,298.15,tetrabutylphosphonium L-serinate
+5858,101.33,1474.2,298.15,1-butyl-4-cyanopyridinium bis(trifluoromethylsulfonyl)imide
+5874,101.0,1330.8,298.15,2-octylisoquinolinium bis((trifluoromethyl)sulfonyl)amide
+5875,101.0,1330.8,298.15,2-octylisoquinolinium bis((trifluoromethyl)sulfonyl)amide
+5911,101.325,1384.6,298.15,1-hexylpyridinium bis(trifluromethylsulfonyl)imide
+5921,101.0,994.2,298.15,N-methyl-2-hydroxyethylammonium hexanoate
+5947,101.0,1221.2,298.15,1-butyl-1-methylpyrrolidinium bromide
+5957,101.0,1188.96,298.15,1-methyl-1-pentylpyrrolidinium bromide
+5967,101.0,1260.0,298.15,1-methyl-1-propylpyrrolidinium bromide
+5988,101.325,1188.5,298.15,1-butylpyridinium nitrate
+6019,101.325,1146.1,298.15,3-ethyl-1-methylimidazolium (S)-2-hydroxypropanoate
+6037,101.325,1288.23,298.15,"1-butyl-3,5-dimethyl-2-pentylpyridinium bis(trifluoromethylsulfonyl)imide"
+6047,101.325,1323.9,298.15,"1-ethyl-3,5-dimethyl-2-pentylpyridinium bis(trifluoromethylsulfonyl)imide"
+6057,101.325,1336.18,298.15,"1-hexyl-2,3,5-trimethylpyridinium bis(trifluoromethylsulfonyl)imide"
+6067,101.325,1253.47,298.15,"1-hexyl-3,5-dimethyl-2-pentylpyridinium bis(trifluoromethylsulfonyl)imide"
+6077,101.325,1310.42,298.15,"1-hexyl-2-ethyl-3,5-dimethylpyridinium 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide"
+6089,101.325,1343.0,298.0,"4-(dimethylamino)-1-hexyl-pyridinium 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide"
+6101,101.325,1417.0,298.15,1-(cyclohexylmethyl)-3-methyl-1H-imidazol-3-ium bis((trifluoromethyl)sulfonyl)amide
+6111,101.325,1493.0,298.15,1-benzyl-3-methyl-1H-imidazol-3-ium bis((trifluoromethyl)sulfonyl)amide
+6121,101.325,1434.0,298.15,"1,3-dibenzyl-1H-imidazol-3-ium bis((trifluoromethyl)sulfonyl)amide"
+6131,101.325,1482.0,298.15,3-methyl-1-(naphthalen-2-ylmethyl)-1H-imidazol-3-ium bis((trifluoromethyl)sulfonyl)amide
+6140,101.325,1372.3,298.15,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+6147,101.325,1097.8,298.15,1-ethyl-3-methylimidazolium acetate
+6157,101.325,1102.0,298.15,1-ethyl-3-methylimidazolium dicyanamide
+6187,101.325,1364.0,298.15,1-butyl-3-methylimidazolium hexafluorophosphate
+6197,101.0,1181.3,298.15,1-ethyl-1-methylpiperidinium ethyl sulfate
+6207,101.0,1252.3,298.15,4-ethyl-4-methylmorpholinium ethyl sulfate
+6238,101.325,1145.6,298.15,1-hexyl-3-methylimidazolium tetrafluoroborate
+6249,101.325,1428.3,298.2,"2,3,5-trimethyl-1-propyl-1H-pyrazolium 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide"
+6257,101.325,1429.6,298.2,"N,N,N-trimethylpropanaminium bis((trifluoromethyl)sulfonyl)amide"
+6267,101.325,1325.0,298.15,1-octyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+6277,101.325,1365.95,298.23,1-butyl-3-methylimidazolium hexafluorophosphate
+6360,101.325,1436.8,298.15,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+6367,101.325,1166.7,298.15,1-butyl-1-methylpyrrolidinium methyl sulfate
+6377,101.325,1252.0,298.15,1-ethylpyridinium ethyl sulfate
+6387,101.325,1222.3,298.15,1-ethyl-3-methylpyridinium ethylsulfate
+6397,101.325,1008.8,298.15,1-methyl-3-octylimidazolium chloride
+6407,101.325,1039.7,298.15,1-hexyl-3-methylimidazolium chloride
+6417,101.325,1590.0,298.15,1-(2-amino-2-oxoethyl)-3-(4-(3-(2-amino-2-oxoethyl)-1H-imidazol-3-ium-1-yl)butyl)-1H-imidazol-3-ium bis((trifluoromethyl)sulfonyl)amide
+6439,101.325,1639.0,298.15,1-ethyl-3-methylimidazolium tetrachloroindate
+6460,101.325,1183.0,298.15,1-butyl-3-methyl-1H-imidazolium (S)-2-amino-3-carboxypropanoate
+6472,101.325,1245.9,298.15,1-heptyl-3-methylimidazolium bromide
+6485,101.325,1263.0,298.15,1-ethyl-3-methylimidazolium methylsulfate
+6494,101.325,1844.6,298.15,1-pentylpyridinium tetraoxorhenate
+6507,101.325,1397.1,298.0,"n-butyl-4-(n',n'-dimethylammonium)pyridinium bis(trifluoromethylsulfonyl)imid"
+6549,101.325,1144.1,298.15,1-hexyl-3-methylimidazolium tetrafluoroborate
+6560,101.325,1235.7,298.15,1-propyl-3-methylimidazolium tetrafluoroborate
+6571,101.325,1280.0,298.15,1-ethyl-3-methylimidazolium tetrafluoroborate
+6582,101.325,1518.74,298.15,1-ethyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+6593,101.325,1372.0,298.15,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+6604,101.325,1394.66,298.15,1-butyl-1-methylpyrrolidinium bis[(trifluoromethyl)sulfonyl]imide
+6615,101.325,1299.63,298.15,1-butyl-3-methylimidazolium trifluoromethanesulfonate
+6626,101.325,1414.76,298.15,"1-butyl-3-methylpyridinium 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide"
+6637,101.325,1447.94,298.15,3-methyl-1-propylpyridinium bis(trifluoromethylsulfonyl)imide
+6648,101.325,1488.5,298.15,1-ethyl-3-methylpyridinium bis((trifluoromethyl)sulfonyl)amide
+6659,101.325,1028.5,298.15,1-hexyl-3-methylimidazolium dicyanamide
+6670,101.325,1060.46,298.15,1-butyl-3-methylimidazolium dicyanamide
+6681,101.325,1252.71,298.15,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate
+6714,101.325,1006.11,298.15,N-methyl-2-oxopyrrolidinium butanoate
+6725,101.325,1046.06,298.15,N-methyl-2-oxopyrrolidinium acetate
+6736,101.325,1027.86,298.15,N-methyl-2-oxopyrrolidinium propionate
+6747,101.325,1071.66,298.15,N-methyl-2-oxopyrrolidinium formate
+6758,101.325,990.01,298.15,N-methyl-2-oxopyrrolidinium pentanoate
+6769,101.325,978.81,298.15,N-methyl-2-oxopyrrolidinium hexanoate
+6779,101.325,1291.0,298.15,1-methyl-1-octylpyrrolidinium bis(trifluoromethylsulfonyl)amide
+6803,101.325,1538.0,298.15,1-ethylpyridinium bis[(trifluoromethyl)sulfonyl]imide
+6813,101.325,1292.9,298.15,1-hexyl-3-methylimidazolium hexafluorophosphate
+6824,101.325,1550.1,298.15,1-hexyl-3-methylimidazolium tris(pentafluoroethyl)trifluorophosphate
+6834,101.325,1212.8,298.15,1-butyl-3-methylimidazolium trifluoroacetate
+6878,101.325,1394.0,298.15,1-butyl-1-methylpyrrolidinium bis[(trifluoromethyl)sulfonyl]imide
+6901,101.325,1365.7,298.15,1-butyl-3-methylimidazolium hexafluorophosphate
+6912,101.325,1437.9,298.15,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+6923,101.325,1201.1,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+6934,101.325,1364.1,298.15,1-butyl-3-methylimidazolium hexafluorophosphate
+6945,101.325,1200.0,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+6956,101.325,1517.9,298.15,1-ethyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+7024,101.325,1201.4,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+7046,101.325,1394.51,298.15,1-butyl-1-methylpyrrolidinium bis[(trifluoromethyl)sulfonyl]imide
+7055,101.325,1488.54,298.15,1-ethyl-3-methylpyridinium bis((trifluoromethyl)sulfonyl)amide
+7066,101.325,1505.35,298.15,1-ethyl-2-methylpyridinium bis((trifluoromethyl)sulfonyl)amide
+7077,101.325,1535.84,298.15,1-ethylpyridinium bis[(trifluoromethyl)sulfonyl]imide
+7088,101.325,1486.67,298.15,1-ethyl-4-methylpyridinium bis((trifluoromethyl)sulfonyl)amide
+7110,101.325,1474.44,298.15,1-methyl-3-propylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+7121,101.325,1284.7,298.15,2-ethyl-1-methylpyridinium methyl sulfate
+7132,101.325,1302.5,298.15,"1,3-dimethylpyridinium methyl sulfate"
+7143,101.325,1344.8,298.15,1-methylpyridinium methylsulfate
+7154,101.325,1220.2,298.15,"1,2-diethylpyridinium ethylsulfate"
+7165,101.325,1008.8,298.15,tributylethylphosphonium diethylphosphate
+7176,101.325,1058.5,298.15,tributylmethylphosphonium methyl sulfate
+7187,101.325,924.4,298.15,tributyloctylphosphonium chloride
+7198,101.325,986.9,298.15,propylammonium acetate
+7209,101.325,993.5,298.15,propylammonium formate
+7220,101.325,886.5,298.14,"N-methyl-N,N-dioctyl-1-octanaminium chloride"
+7231,101.325,912.3,298.14,"N-methyl-N,N,N-trioctylammonium nitrate"
+7243,101.325,1202.0,298.1,1-butyl-3-methylimidazolium methylsulfate
+7254,101.325,1146.0,298.1,1-hexyl-3-methylimidazolium tetrafluoroborate
+7265,101.325,1517.0,298.1,1-ethyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+7285,101.325,1273.4,298.15,"1,2,3-tris(diethylamino)-cyclopropenylium bis(trifluoromethylsulfonyl)imide"
+7301,101.325,1434.1,298.15,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+7313,101.325,1435.7,298.15,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+7323,101.325,1035.9,298.15,(S)-2-(isobutoxycarbonyl)pyrrolidinium dodecyl sulfate
+7335,101.325,1026.1,298.15,(S)-1-isopropoxy-3-methyl-1-oxobutan-2-aminium dodecyl sulfate
+7347,101.325,1041.8,298.15,(S)-1-isobutoxy-1-oxopropan-2-aminium dodecyl sulfate
+7359,101.325,1046.9,298.15,"L-alanine, 1-methylethyl ester, dodecyl sulfate (1:1)"
+7371,101.325,1050.3,298.15,"(S)-1,5-diisopropoxy-1,5-dioxopentan-2-aminium dodecyl sulfate"
+7383,101.325,1046.8,298.15,(S)-2-(isopropoxycarbonyl)pyrrolidin-1-ium dodecyl sulfate
+7396,101.325,1036.4,298.15,1-ethyl-3-methylimidazolium tetracyanoborate
+7408,101.325,1477.0,298.15,1-methyl-3-hexylimidazolium chloroindium
+7417,101.325,1191.5,298.15,"2-hydroxy-N,N,N-trimethylethanaminium L-serinate"
+7429,101.325,1121.0,298.15,"2-hydroxy-N,N,N-trimethylethanaminiume L-prolinate"
+7441,101.325,1112.9,298.15,"2-hydroxy-N,N,N-trimethylethanaminium L-alaninate"
+7453,101.325,1145.2,298.15,"2-hydroxy-N,N,N-trimethylethanaminium glycinate"
+7465,101.325,1120.3,298.15,"2-hydroxy-N,N,N-trimethylethanaminium .beta.-alaninate"
+7503,101.325,1280.81,298.15,1-ethyl-3-methylimidazolium methylsulfate
+7525,101.325,1202.7,298.15,1-(2-cyanoethyl)-3-(phenylmethyl)-1H-imidazolium chloride
+7539,101.325,1008.27,298.15,1-methyl-3-octyl-1H-imidazolium thiocyanate
+7553,101.325,1427.9,298.15,1-methyl-1-propylpyrrolidinium bis[(trifluoromethyl)sulfonyl]imide
+7576,101.325,1418.0,298.15,3-(2-(butylamino)-2-oxoethyl)-1-ethyl-1H-imidazolium bis((trifluoromethyl)sulfonyl)amide
+7588,101.325,1492.0,298.15,1-ethyl-4-methylpyridinium bis((trifluoromethyl)sulfonyl)amide
+7600,101.325,1418.7,298.15,1-butyl-4-methylpyridinium bis((trifluoromethyl)sulfonyl)amide
+7612,101.325,1387.7,298.15,1-hexylpyridinium bis(trifluromethylsulfonyl)imide
+7624,101.325,1421.0,298.15,1-pentylpyridinium bis(trifluoromethylsulfonyl)amide
+7636,101.325,1709.3,298.15,1-ethyl-3-methylimidazolium tris(pentafluoroethyl)trifluorophosphate
+7645,101.325,1570.0,298.15,"1,3-dimethylimidazolium bis((trifluoromethyl)sulfonyl)amide"
+7658,101.325,1281.0,298.15,pyridinium ethoxyethylsulfate
+7671,101.325,1008.3,298.15,1-methyl-3-octyl-1H-imidazolium thiocyanate
+7682,101.325,1013.4,298.15,1-butyl-1-methylpyrrolidinium dicyanamide
+7683,101.325,1013.5,298.15,1-butyl-1-methylpyrrolidinium dicyanamide
+7695,101.325,1237.6,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+7718,101.325,1042.7,298.15,3-(2-cyanoethyl)-1-octyl-1H-imidazol-3-ium chloride
+7731,101.325,1074.1,298.15,3-(2-cyanoethyl)-1-hexyl-1H-imidazol-3-ium chloride
+7744,101.325,1105.3,298.15,3-butyl-1-(2-cyanoethyl)-1H-imidazol-3-ium chloride
+7757,101.325,1244.6,298.15,3-(2-cyanoethyl)-1-hexyl-1H-imidazolium 3-sulfobenzoate
+7770,101.325,1285.7,298.15,3-(2-cyanoethyl)-1-hexyl-1H-imidazolium trifluoromethanesulfonate
+7783,101.325,1089.0,298.15,"1-(2-cyanoethyl)-3-hexyl-1H-imidazol-3-ium 1,4-bis((2-ethylhexyl)oxy)-1,4-dioxobutane-2-sulfonate"
+7796,101.325,1097.8,298.15,3-(2-cyanoethyl)-1-hexyl-1H-imidazolium dodecyl sulfate
+7809,101.325,1222.7,298.15,3-(2-cyanoethyl)-1-hexyl-1H-imidazolium benzenesulfonate
+7822,101.325,1176.6,298.15,3-(2-cyanoethyl)-1-octyl-1H-imidazolium bromide
+7835,101.325,1229.0,298.15,3-(2-cyanoethyl)-1-hexyl-1H-imidazolium bromide
+7848,101.325,1304.7,298.15,1-butyl-3-(2-cyanoethyl)-1H-imidazolium bromide
+7861,101.325,1182.8,298.15,3-(2-cyanoethyl)-1-octyl-1H-imidazol-3-ium 3-sulfobenzoate
+7874,101.325,1205.2,298.15,3-(2-cyanoethyl)-1-octylimidazolium benzenesulfonate
+7887,101.325,1229.4,298.15,3-(2-cyanoethyl)-1-octyl-1H-imidazol-3-ium trifluoromethanesulfonate
+7900,101.325,1081.7,298.15,3-(2-cyanoethyl)-1-octylimidazolium decylsulfate
+7913,101.325,1110.5,298.15,1-butyl-3-propanenitrile imidazolium dioctysulfosuccinate
+7926,101.325,1050.4,298.15,3-(2-cyanoethyl)-1-decylimidazolium dodecylsulfate
+7939,101.325,1035.8,298.15,1-decyl-3-propanenitrile imidazolium dioctysulfosuccinate
+7952,101.325,1133.5,298.15,3-(2-cyanoethyl)-1-decylimidazolium 3-sulfobenzoate
+7965,101.325,1332.4,298.15,1-butyl-3-propanenitrile imidazolium trifluoromethanesulfonate
+7978,101.325,1236.8,298.15,1-butyl-3-(2-cyanoethyl)-1H-imidazolium benzenesulfonate
+7991,101.325,1123.2,298.15,1-butyl-3-(2-cyanoethyl)-1H-imidazol-3-ium dodecyl sulfate
+8007,101.325,1422.6,298.15,"1-butyl-3-methylpyridinium 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide"
+8021,101.325,1059.3,298.15,1-butyl-3-methylimidazolium dicyanamide
+8034,101.325,1013.4,298.15,1-butyl-1-methylpyrrolidinium dicyanamide
+8044,101.325,1123.0,298.13,N-ethyl-N-methylpyrrolidinium ethylphosphonate
+8057,101.325,1060.7,298.13,N-hexyl-N-methylpyrrolidinium hexylphosphonate
+8070,101.325,1053.61,298.13,1-butyl-1-methylpiperidin-1-ium butyl phosphonate
+8083,101.325,1118.7,298.13,4-butyl-4-methylmorpholin-4-ium butylphosphonate
+8096,101.325,1081.6,298.13,1-butyl-1-methylpyrrolidin-1-ium butyl phosphonate
+8109,101.325,1020.0,298.13,4-hexyl-4-methylmorpholin-4-ium hexylphosphonate
+8122,101.325,1161.6,298.13,4-ethyl-4-methylmorpholin-4-ium ethylphosphonate
+8135,101.325,969.4,298.13,1-methyl-1-octylpiperidin-1-ium octyl phosphonate
+8148,101.325,1013.1,298.13,1-hexyl-1-methylpiperidin-1-ium hexylphosphonate
+8161,101.325,1094.1,298.13,1-ethyl-1-methylpiperidin-1-ium ethyl phosphonate
+8174,101.325,989.1,298.13,N-methyl-N-octylpyrrolidinium octylphosphonate
+8187,101.325,978.1,298.13,4-methyl-4-octylmorpholin-4-ium octylphosphonate
+8199,101.325,1447.6,298.15,1-butylpyridinium bis[(trifluoromethyl)sulfonyl]imide
+8212,101.325,1248.8,298.15,1-dodecylpyridinium bis(trifluoromethylsulfonyl)imide
+8225,101.325,1326.8,298.15,1-octylpyridinium bis((trifluoromethyl)sulfonyl)amide
+8238,101.325,1283.5,298.15,1-decylpyridinium bis(trifluoromethylsulfonyl)imide
+8264,101.325,1258.5,298.15,1-butyl-3-methylimidazolium perchlorate
+8277,101.325,1220.1,298.15,1-butyl-3-methylimidazolium hydrogen sulfate
+8290,101.325,1434.3,298.15,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+8303,101.325,1394.6,298.15,1-butyl-1-methylpyrrolidinium bis[(trifluoromethyl)sulfonyl]imide
+8316,101.325,1453.6,298.15,1-ethyl-3-methylpyridinium perfluoropentanoate
+8331,101.325,1327.2,298.15,"1,3-dimethylimidazolium methylsulfate"
+8342,101.325,1193.2,298.15,1-octyl-3-methylimidazolium trifluoromethanesulfonate
+8359,101.0,1513.2,298.15,1-butyl-3-methylimidazolium bis(perfluoroethylsulfonyl)imide
+8372,101.0,1357.2,298.15,1-butyl-3-methylimidazolium bis(fluoroethylsulfonyl)imide
+8381,101.325,1129.4,298.15,3-butyl-1-(2-cyanoethyl)-1H-imidazol-3-ium chloride
+8394,101.325,1255.0,298.15,1-(2-cyanoethyl)-3-(2-hydroxyethyl)-1H-imidazolium chloride
+8407,101.325,1170.8,298.15,3-allyl-1-(2-cyanoethyl)-1H-imidazolium chloride
+8420,101.325,1015.7,298.15,"2-hydroxy-N,N,N-trimethylethanaminium hexanoate"
+8433,101.325,1046.5,298.15,choline butanoate
+8446,101.325,1071.5,298.15,"choline, propionate"
+8459,101.325,1155.1,298.15,1-ethyl-3-methyl-1H-imidazolium L-prolinate
+8472,101.325,1154.7,298.15,1-ethyl-3-methylimidazolium ammonioacetate
+8485,101.325,1195.2,298.15,3-ethyl-1-methyl-1H-imidazolium L-serinate
+8498,101.325,1136.1,298.15,1-ethyl-3-methylimidazolium L-alaninate
+8526,101.325,1156.5,298.15,1-butyl-3-methylimidazolium nitrate
+8541,101.325,1589.51,298.15,1-(2-hydroxyethyl)-pyridinium bis(trifluoromethylsulfonyl)imide
+8554,101.325,1036.31,298.15,1-ethyl-3-methylimidazolium tetracyanoborate
+8567,101.325,1391.1,298.15,"N-ethyl-2-(2-methoxyethoxy)-N,N-dimethylethanaminium bis(trifluoromethylsulfonyl)imide"
+8580,101.325,1291.0,298.15,"N-ethyl-N,N-dimethylheptanaminium bis((trifluoromethyl)sulfonyl)amide"
+8593,101.325,1341.4,298.15,"N,N-dimethyl-N-ethyl-N-pentylammonium bis(trifluoromethylsulfonyl)"
+8606,101.325,1458.7,298.15,"2-(acetyloxy)-N-ethyl-N,N-dimethylethanaminium 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide"
+8641,101.325,1139.9,298.15,"2-hydroxy-N,N,N-trimethylethanaminium (S)-2-hydroxypropanoate"
+8654,101.325,1146.1,298.15,3-ethyl-1-methylimidazolium (S)-2-hydroxypropanoate
+8680,101.325,1422.3,298.15,3-(2-aminoethyl)-1-methyl-1H-imidazolium tetrafluoroborate
+8693,101.325,1354.6,298.15,1-(3-aminopropyl)-3-methyl-1H-imidazolium tetrafluoroborate
+8706,101.325,1561.9,298.15,1-(2-aminoethyl)-3-methyl-1H-imidazolium hexafluorophosphate(V)
+8719,101.325,1496.0,298.15,3-(3-aminopropyl)-1-methyl-1H-imidazolium hexafluorophosphate(V)
+8734,101.325,1214.1,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+8747,101.325,1103.0,298.15,1-methyl-3-octylimidazolium tetrafluoroborate
+8760,101.325,1367.9,298.15,1-butyl-3-methylimidazolium hexafluorophosphate
+8771,101.325,1242.3,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+8784,101.325,1519.2,298.15,1-ethyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+8797,101.325,1437.7,298.15,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+8811,101.325,1061.7,298.15,2-octylisoquinolinium thiocyanate
+8823,101.325,1298.8,298.22,1-butyl-3-methylimidazolium trifluoromethanesulfonate
+8836,101.325,1298.7,298.09,1-butyl-3-methylimidazolium trifluoromethanesulfonate
+8849,101.325,1239.3,298.12,1-hexyl-3-methylimidazolium trifluoromethanesulfonate
+8862,101.325,1283.0,298.14,1-ethyl-3-methylimidazolium tetrafluoroborate
+8875,101.325,1314.0,298.15,"1,3-dimethylimidazolium methoxyethylsulfate"
+8888,101.325,1328.0,298.15,"1,3-dimethylimidazolium methylsulfate"
+8915,101.325,1101.2,298.15,1-ethyl-3-methylimidazolium acetate
+8928,101.325,1155.1,298.15,1-methylimidazolium acetate
+8941,101.325,1127.6,298.15,"1,3-dimethylimidazolium acetate"
+8957,101.325,1201.3,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+8970,101.325,1236.8,298.15,1-octyl-3-methylimidazolium hexafluorophosphate
+8979,101.325,1204.0,298.15,3-ethyl-1-methyl-1H-imidazolium L-serinate
+8992,101.325,1123.0,298.15,1-ethyl-3-methylimidazolium L-alaninate
+9005,101.325,1252.0,298.15,1-ethyl-3-methylimidazolium taurinate
+9018,101.325,1161.0,298.15,1-ethyl-3-methylimidazolium ammonioacetate
+9031,101.325,1142.8,298.15,1-ethyl-3-methyl-1H-imidazolium L-prolinate
+9044,101.0,1081.0,298.15,1-ethyl-3-methyl-1H-imidazolium tricyanomethanide
+9121,101.325,1175.4,298.75,1-butyl-3-methylimidazolium 2-(2-methoxyethoxy)ethyl sulfate
+9137,101.325,1052.63,298.15,1-butyl-3-methylimidazolium acetate
+9150,101.325,1098.26,298.15,1-ethyl-3-methylimidazolium acetate
+9160,101.0,1046.2,298.15,1-butyl-3-methylimidazolium tricyanomethane
+9178,101.325,1208.7,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+9192,101.325,1556.0,298.15,1-butyl-3-methylimidazolium tetrachloroindate
+9216,101.325,1384.09,298.21,1-hexyl-3-methylimidazolium iodide
+9234,101.325,1205.8,298.15,1-butyl-3-methylimidazolium methylsulfate
+9248,101.325,1067.6,298.15,1-butyl-3-methylimidazolium octyl sulfate
+9262,101.325,1009.6,298.15,1-methyl-3-octylimidazolium chloride
+9274,101.325,1434.3,298.15,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+9288,101.325,1230.2,298.15,1-dodecyl-3-methyl-1H-imidazolium bis(trifluoromethylsulfonyl)amide
+9302,101.325,1193.39,298.15,1-octyl-3-methylimidazolium trifluoromethanesulfonate
+9316,101.325,1448.2,298.15,1-butylpyridinium bis[(trifluoromethyl)sulfonyl]imide
+9330,101.325,1320.54,298.15,1-octyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+9343,101.325,1097.83,298.15,1-ethyl-3-methylimidazolium acetate
+9374,101.325,898.9,298.15,tetradecyl(trihexyl)phosphonium dicyanamide
+9388,101.325,1394.6,298.15,1-butyl-1-methylpyrrolidinium bis[(trifluoromethyl)sulfonyl]imide
+9402,101.325,1212.2,298.15,1-butyl-3-methylimidazolium methylsulfate
+9416,101.325,1367.0,298.15,1-butyl-3-methylimidazolium hexafluorophosphate
+9430,101.325,1235.7,298.15,1-octyl-3-methylimidazolium hexafluorophosphate
+9441,101.325,1350.13,298.15,1-methyl-1-pentylpiperidinium bis(trifluoromethanesulfonyl)imide
+9455,101.325,1325.41,298.15,1-hexyl-1-methylpiperidinium bis(trifluoromethanesulfonyl)imide
+9472,101.325,1335.0,298.14,1-hexyl-1-methylpyrrolidinium bis(trifluoromethanesulfonyl)imide
+9570,101.325,1437.3,298.2,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+9581,101.325,1370.0,298.15,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+9596,101.0,1201.3,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+9597,101.0,1201.4,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+9613,101.325,1293.2,298.15,1-hexyl-3-methylimidazolium hexafluorophosphate
+9628,101.325,1103.7,298.15,1-methyl-3-octylimidazolium tetrafluoroborate
+9641,101.325,1367.5,298.15,1-butyl-3-methylimidazolium hexafluorophosphate
+9656,101.325,1394.4,298.15,1-butyl-1-methylpyrrolidinium bis[(trifluoromethyl)sulfonyl]imide
+9710,101.325,1236.24,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+9722,101.325,1411.4,298.15,1-methyl-1-propylpiperidinium bis(trifluoromethylsulfonyl)imide
+9736,101.325,1380.8,298.15,1-butyl-1-methylpiperidinium bis(trifluoromethanesulfonyl)imide
+9750,101.325,1414.9,298.15,"1-butyl-3-methylpyridinium 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide"
+9764,101.325,1448.8,298.15,3-methyl-1-propylpyridinium bis(trifluoromethylsulfonyl)imide
+9776,101.325,1021.2,298.15,1-butyl-1-methylpyrrolidinium acetate
+9791,101.325,1201.0,298.2,1-butyl-3-methylimidazolium tetrafluoroborate
+9806,101.325,1367.8,298.2,1-butyl-3-methylimidazolium hexafluorophosphate
+9823,101.325,1376.0,298.15,1-methyl-3-pentylimidazolium gallium tetrachloride
+9838,101.325,1511.0,298.15,1-methyl-3-pentylimidazolium tetrachloroindate
+9853,101.325,1213.3,298.15,1-methyl-3-pentylimidazolium aluminum tetrachloride
+9864,101.325,1547.1,298.18,1-methyl-3-propylimidazolium iodide
+9881,101.325,1280.5,298.15,1-ethyl-3-methylimidazolium tetrafluoroborate
+9896,101.325,1707.9,298.15,1-ethyl-3-methylimidazolium tris(pentafluoroethyl)trifluorophosphate
+9911,101.325,1028.9,298.15,1-ethyl-3-methylimidazolium tetracyanoborate
+9926,101.325,1115.5,298.15,1-ethyl-3-methylimidazolium thiocyanate
+9941,101.325,1367.4,298.15,1-ethyl-3-methylimidazolium hydrogen sulfate
+9956,101.325,1241.6,298.15,1-ethyl-3-methylimidazolium methanesulfonate
+9971,101.325,1237.6,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+9986,101.325,1427.4,298.15,1-methyl-1-propylpyrrolidinium bis[(trifluoromethyl)sulfonyl]imide
+10001,101.325,1338.1,298.15,1-methyl-1-propylpyrrolidinium bis(fluorosulfonyl)amide
+10016,101.325,1458.7,298.15,1-ethylpyridinium bis(fluorosulfonyl)amide
+10031,101.325,1369.4,298.15,1-butylpyridinium bis(fluorosulfonyl)amide
+10046,101.325,1301.9,298.15,1-hexylpyridinium bis(fluorosulfonyl)amide
+10061,101.325,1407.1,298.15,1-ethyl-3-methylpyridinium bis(fluorosulfonyl)amide
+10076,101.325,1611.1,298.15,1-butyl-3-methyl-1H-imidazolium bis(perfluorobutylsulfonyl)amide
+10091,101.325,1518.5,298.15,1-ethyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+10106,101.325,1101.2,298.15,1-ethyl-3-methylimidazolium dicyanamide
+10121,101.325,1441.4,298.15,1-ethyl-3-methyl-1H-imidazolium bis(fluorosulfonyl)amide
+10134,101.325,1569.2,298.15,"1,3-dimethylimidazolium bis((trifluoromethyl)sulfonyl)amide"
+10149,101.325,1213.1,298.15,1-nonyl-3-methylimidazolium hexafluorophosphate
+10164,101.325,1367.4,298.15,1-butyl-3-methylimidazolium hexafluorophosphate
+10179,101.325,1327.8,298.15,1-methyl-3-pentylimidazolium hexafluorophosphate
+10194,101.325,1236.9,298.15,1-octyl-3-methylimidazolium hexafluorophosphate
+10209,101.325,1262.6,298.15,1-heptyl-3-methylimidazolium hexafluorophosphate
+10224,101.325,1294.2,298.15,1-hexyl-3-methylimidazolium hexafluorophosphate
+10239,101.325,1238.7,298.15,1-(2-chloroethyl)-3-methylimidazolium dicyanamide
+10254,101.325,1109.9,298.15,1-allyl-3-methylimidazolium dicyanamide
+10269,101.325,1186.2,298.15,3-(2-hydroxyethyl)-1-methyl-1H-imidazol-3-ium dicyanoazanide
+10284,101.325,1152.4,298.15,1-(3-cyanopropyl)-3-methylimidazolium cyanocyanamide
+10299,101.325,1409.6,298.15,1-methyl-1-propylpiperidinium bis(trifluoromethylsulfonyl)imide
+10314,101.325,1252.0,298.15,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate
+10329,101.325,1275.2,298.15,1-butyl-3-methylpyridinium trifluoromethanesulfonate
+10344,101.325,1036.1,298.15,1-ethyl-3-methylimidazolium tetracyanoborate
+10359,101.325,989.8,298.15,1-hexyl-3-methylimidazolium tetracyanoborate
+10376,101.3,1112.7,298.15,1-octylpyridinium tetrafluoroborate
+10391,101.3,1213.4,298.15,1-butylpyridinium tetrafluoroborate
+10406,101.325,1252.7,298.15,1-butyl-3-methylimidazolium perchlorate
+10511,101.325,1573.7,298.15,1-(2-hydroxyethyl)-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+10526,101.325,1609.7,298.15,3-(cyanomethyl)-1-methyl-1H-imidazol-3-ium bis((trifluoromethyl)sulfonyl)amide
+10553,101.325,996.0,298.15,tributylethylphosphonium diethylphosphate
+10569,101.325,1262.6,298.16,1-heptyl-3-methylimidazolium hexafluorophosphate
+10584,101.325,1212.6,298.18,1-nonyl-3-methylimidazolium hexafluorophosphate
+10601,101.325,1157.0,298.22,1-hexyl-3-methylimidazolium tetrafluoroborate
+10616,101.325,1201.0,298.29,1-butyl-3-methylimidazolium tetrafluoroborate
+10631,101.325,1201.0,298.19,1-butyl-3-methylimidazolium tetrafluoroborate
+10647,101.325,1101.2,298.15,1-ethyl-3-methylimidazolium acetate
+10661,101.325,1234.0,298.15,"N,N-diethyl-2-methoxy-N-methylethan-1-aminium trifluoro(trifluoromethyl)borate"
+10676,101.325,1406.9,298.15,"N,N-diethyl-2-methoxy-N-methylethan-1-aminium bis((trifluoromethyl)sulfonyl)amide"
+10691,101.325,1177.8,298.15,"N,N-diethyl-2-methoxy-N-methylethan-1-aminium tetrafluoroborate"
+10719,101.325,1479.0,298.15,1-butyl-3-cyanopyridinium bis(trifluoromethylsulfonyl)imide
+10734,101.325,1408.9,298.15,"3-cyano-1-hexylpyridinium 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide"
+10749,101.325,1407.1,298.15,1-hexyl-4-cyanopyridinium bis(trifluoromethylsulfonyl)imide
+10764,101.325,1355.1,298.15,"3-cyano-1-octylpyridinium 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide"
+10781,101.325,1067.2,298.15,tributylmethylphosphonium methyl sulfate
+10796,101.325,1010.9,298.15,tributylethylphosphonium diethylphosphate
+10811,101.325,1073.2,298.15,triisobutylmethylphosphonium p-toluenesulfonate
+10826,101.325,1502.3,298.15,diethylmethylsulfonium bis[(trifluoromethyl)sulfonyl]imide
+10841,101.325,1262.8,298.15,tributylmethylammonium bis((trifluoromethyl)sulfonyl)imide
+10856,101.325,1462.1,298.15,triethylsulfonium bis((trifluoromethyl)sulfonyl)imide
+10871,101.325,1394.2,298.15,butyltrimethylammonium bis(trifluoromethylsulfonyl)imide
+10887,101.325,1003.9,298.15,"1,2,3-tris(diethylamino)-cyclopropenylium dicyanoamide"
+10903,101.325,1401.26,298.15,"N-ethyl-N,N-dimethyl-1-propanaminium 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide"
+10919,101.325,1372.1,298.15,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+10920,101.325,1372.2,298.15,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+10951,101.325,1359.92,298.15,"1-pentyl-1-methylpyrrolidinium 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide"
+10967,101.325,1253.7,298.15,Tributylmethylphosphonium bis[(trifluoromethyl)sulfonyl]imide
+10983,101.325,1418.69,298.15,"1-butyl-2,3-dimethyl-1H-imidazolium bis(trifluoromethylsulfonyl)amide"
+10999,101.325,1339.3,298.15,1-methyl-1-propylpyrrolidinium bis(fluorosulfonyl)amide
+11015,101.325,1287.5,298.15,"N,N-diethyl-N-methyl-N-propylammonium bis(fluorosulfonyl)imide"
+11031,101.325,1320.6,298.15,1-methyl-1-propylpiperidinium bis(fluorosulfonyl)imide
+11047,101.0,1625.89,298.29,1-butyl-3-methylimidazolium tris(pentafluoroethyl)trifluorophosphate
+11097,101.325,1437.0,298.15,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+11098,101.325,1437.0,298.15,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+11107,101.325,1291.4,298.0,triethylhexylammonium bis((trifluoromethyl)sulfonyl)imide
+11123,101.325,1191.1,298.0,"N,N,N-triethyldodecan-1-aminium bis((trifluoromethyl)sulfonyl)amide"
+11139,101.325,1218.1,298.0,"N,N,N-triethyl-1-decanaminium 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide"
+11155,101.325,1251.2,298.0,triethyloctylammonium bis[(trifluoromethyl)sulfonyl]imide
+11171,101.325,1321.5,298.0,triethylpentylammonium bis(trifluoromethylsulfonyl)imide
+11187,101.325,1230.6,298.15,"1,3-dimethylimidazolium methyl phosphonate"
+11222,101.325,1483.31,298.27,1-butyl-3-methylimidazolium iodide
+11241,101.0,1709.32,298.16,1-ethyl-3-methylimidazolium tris(pentafluoroethyl)trifluorophosphate
+11253,101.325,1205.7,298.2,1-butyl-3-methylimidazolium methylsulfate
+11270,101.325,1303.8,298.2,1-butyl-3-methylimidazolium trifluoromethanesulfonate
+11287,101.325,1363.9,298.2,1-butyl-3-methylimidazolium hexafluorophosphate
+11304,101.325,1201.0,298.2,1-butyl-3-methylimidazolium tetrafluoroborate
+11325,101.325,1519.3,298.15,1-ethyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+11342,101.325,1475.3,298.15,1-methyl-3-propylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+11359,101.325,1432.5,298.15,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+11376,101.325,1066.1,298.15,trihexyl(tetradecyl)phosphonium bis[(trifluoromethyl)sulfonyl]imide
+11392,101.325,1114.4,298.15,1-methyl-3-octylimidazolium tetrafluoroborate
+11409,101.325,1288.66,298.15,triethylhexylammonium bis((trifluoromethyl)sulfonyl)imide
+11426,101.325,1187.7,298.15,"N,N,N-triethyldodecan-1-aminium bis((trifluoromethyl)sulfonyl)amide"
+11443,101.325,1249.24,298.15,triethyloctylammonium bis[(trifluoromethyl)sulfonyl]imide
+11460,101.325,962.51,298.15,1-decyl-3-methyl-1H-imidazolium tetracyanoborate
+11477,101.325,983.11,298.15,3-decyl-1-methylimidazolium tricyanomethanide
+11494,101.325,975.1,298.15,1-methyl-3-octylimidazolium tetracyanoborate
+11511,101.325,1000.54,298.15,1-methyl-3-octylimidazolium tricyanomethanide
+11528,101.325,1020.62,298.15,3-hexyl-1-methylimidazolium tricyanomethanide
+11545,101.325,1009.83,298.15,1-butyl-3-methyl-1H-imidazolium tetracyanoborate
+11562,101.325,1047.23,298.15,1-butyl-3-methylimidazolium tricyanomethane
+11579,101.325,1081.2,298.15,1-ethyl-3-methyl-1H-imidazolium tricyanomethanide
+11596,101.325,990.56,298.15,1-hexyl-3-methylimidazolium tetracyanoborate
+11613,101.325,1036.34,298.15,1-ethyl-3-methylimidazolium tetracyanoborate
+11664,101.325,1372.0,298.16,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+11665,101.325,1372.0,298.16,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+11679,101.325,1184.6,298.15,1-benzyl-3-methyl-1H-imidazolium methyl sulfate
+11695,101.325,1314.33,298.15,1-butylpyridinium trifluoromethanesulfonate
+11715,101.325,1034.2,298.15,1-ethyl-1H-imidazolium acetate
+11732,101.325,1016.1,298.15,"N,N-dimethylethanamine acetate"
+11749,101.325,1052.3,298.15,1-butyl-3-methylimidazolium acetate
+11767,101.325,1069.54,298.15,1-butyl-3-methylimidazolium thiocyanate
+11785,101.325,1200.85,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+11803,101.325,1291.45,298.15,1-hexyl-3-methylimidazolium hexafluorophosphate
+11821,101.325,1145.11,298.15,1-hexyl-3-methylimidazolium tetrafluoroborate
+11839,101.325,1261.4,298.15,3-methyl-1-undecyl-1H-imidazol-3-ium bis((trifluoromethyl)sulfonyl)amide
+11857,101.325,1344.6,298.15,1-heptyl-3-methylimidazolium bis(trifluoromethylsulfonyl)amide
+11875,101.325,1298.4,298.15,1-methyl-3-nonylimidazolium bis(trifluoromethanesulfonyl)imide
+11893,101.325,1474.9,298.15,"1,3-diethylimidazolium bis[(trifluoromethyl)sulfonyl]imide"
+11911,101.325,1403.4,298.15,1-methyl-3-pentylimidazolium bis(trifluoromethylsulfonyl)imide
+11929,101.325,1399.0,298.15,"1,3-dipropyl-1H-imidazol-3-ium bis((trifluoromethyl)sulfonyl)amide"
+11947,101.325,1342.8,298.15,"1,3-dibutyl-1H-imidazolium bis((trifluoromethyl)sulfonyl)amide"
+11965,101.325,1292.4,298.15,"1,3-dipentyl-1H-imidazol-3-ium bis((trifluoromethyl)sulfonyl)amide"
+11983,101.325,1255.0,298.15,"1,3-dihexyl-1H-imidazol-3-ium bis((trifluoromethyl)sulfonyl)amide"
+12001,101.325,1225.2,298.15,"1,3-diheptyl-1H-imidazol-3-ium bis((trifluoromethyl)sulfonyl)amide"
+12019,101.325,1194.8,298.15,"1,3-dioctyl-1H-imidazol-3-ium bis((trifluoromethyl)sulfonyl)amide"
+12037,101.325,1169.2,298.15,"1,3-dinonyl-1H-imidazol-3-ium bis((trifluoromethyl)sulfonyl)amide"
+12055,101.325,1152.2,298.15,"1,3-didecyl-1H-imidazol-3-ium bis((trifluoromethyl)sulfonyl)amide"
+12073,101.325,1448.7,298.15,1-butylpyridinium bis[(trifluoromethyl)sulfonyl]imide
+12091,101.325,1412.2,298.15,1-butyl-4-methylpyridinium bis((trifluoromethyl)sulfonyl)amide
+12109,101.325,1394.2,298.15,1-hexylpyridinium bis(trifluromethylsulfonyl)imide
+12127,101.325,1447.5,298.15,3-methyl-1-propylpyridinium bis(trifluoromethylsulfonyl)imide
+12145,101.325,1412.8,298.15,"1-butyl-3-methylpyridinium 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide"
+12163,101.325,1283.3,298.15,1-ethyl-3-methylimidazolium tetrafluoroborate
+12181,101.325,1201.7,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+12199,101.325,1069.5,298.15,1-butyl-3-methylimidazolium thiocyanate
+12217,101.325,1117.0,298.15,1-ethyl-3-methylimidazolium thiocyanate
+12235,101.325,1028.9,298.15,1-hexyl-3-methylimidazolium dicyanamide
+12253,101.325,1081.9,298.15,1-ethyl-3-methyl-1H-imidazolium tricyanomethanide
+12271,101.325,1047.5,298.15,1-butyl-3-methylimidazolium tricyanomethane
+12289,101.325,990.9,298.15,1-hexyl-3-methylimidazolium tetracyanoborate
+12307,101.325,1104.0,298.15,1-ethyl-3-methylimidazolium dicyanamide
+12325,101.325,1060.3,298.15,1-butyl-3-methylimidazolium dicyanamide
+12343,101.325,955.2,298.15,tetradecyltrihexylphosphonium bromide
+12361,101.325,880.6,298.15,trihexyltetradecylphosphonium decanoate
+12379,101.325,885.3,298.15,"trihexyltetradecylphosphonium bis(2,4,4-trimethylpentyl)phosphinate"
+12397,101.325,899.0,298.15,tetradecyl(trihexyl)phosphonium dicyanamide
+12415,101.325,928.1,298.15,trihexyltetradecylphosphonium methanesulfonate
+12433,101.325,889.9,298.15,trihexyl(tetradecyl)phosphonium chloride
+12451,101.0,1372.3,298.15,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+12465,101.0,1145.3,298.15,1-hexyl-3-methylimidazolium tetrafluoroborate
+12466,101.0,1145.8,298.15,1-hexyl-3-methylimidazolium tetrafluoroborate
+12483,101.0,1201.4,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+12484,101.0,1201.7,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+12525,101.325,1146.0,298.06,1-hexyl-3-methylimidazolium tetrafluoroborate
+12561,101.325,1415.9,298.2,"1-butyl-2,3-dimethyl-1H-imidazolium bis(trifluoromethylsulfonyl)amide"
+12578,101.325,1340.0,298.15,"1,3-dibutyl-1H-imidazolium bis((trifluoromethyl)sulfonyl)amide"
+12596,101.325,1241.5,298.15,1-ethyl-3-methylimidazolium methanesulfonate
+12614,101.325,1094.2,298.15,1-ethyl-3-methylimidazolium octyl sulfate
+12632,101.325,1364.7,298.15,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+12650,101.325,1099.7,298.15,1-ethyl-3-methylimidazolium acetate
+12667,101.325,1101.0,298.15,"methyltrioctylammonium 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]methanesulfonamide"
+12685,101.325,1099.3,298.15,1-ethyl-3-methylimidazolium acetate
+12703,101.325,1208.3,298.15,1-ethyl-3-methylimidazolium methyl phosphonate
+12721,101.325,1242.4,298.15,1-ethyl-3-methylimidazolium methanesulfonate
+12739,101.325,1385.9,298.15,1-ethyl-3-methylimidazolium trifluoromethanesulfonate
+12757,101.325,1104.0,298.15,1-ethyl-3-methylimidazolium dicyanamide
+12775,101.325,1117.0,298.15,1-ethyl-3-methylimidazolium thiocyanate
+12834,101.325,1371.6,298.15,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+12835,101.325,1371.9,298.15,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+13020,101.325,1436.71,298.34,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+13039,101.325,1328.2,298.17,1-methyl-3-pentylimidazolium hexafluorophosphate
+13059,101.325,1397.0,298.2,1-butyl-1-methylpyrrolidinium bis[(trifluoromethyl)sulfonyl]imide
+13077,101.325,1191.8,298.15,1-ethyl-3-methylimidazolium methyl phosphonate
+13113,101.325,1583.2,298.15,1-butyl-1-methylpyrrolidinium tris(pentafluoroethyl)trifluorophosphate
+13132,101.325,1252.4,298.15,1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate
+13153,101.325,1081.4,298.15,1-ethyl-3-methyl-1H-imidazolium tricyanomethanide
+13172,101.325,1236.7,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+13191,101.325,1518.45,298.15,1-ethyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+13210,101.325,1108.9,298.15,1-ethyl-3-methylimidazolium dicyanamide
+13348,101.325,1202.5,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+13368,101.325,1436.8,298.15,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+13388,101.325,1368.0,298.15,1-butyl-3-methylimidazolium hexafluorophosphate
+13427,101.325,1404.0,298.15,3-methyl-3-propyl-3-azabicyclo[3.2.2]nonanium bis((trifluoromethyl)sulfonyl)amide
+13428,101.325,1404.0,298.15,3-methyl-3-propyl-3-azabicyclo[3.2.2]nonanium bis((trifluoromethyl)sulfonyl)amide
+13429,101.325,1404.0,298.15,3-methyl-3-propyl-3-azabicyclo[3.2.2]nonanium bis((trifluoromethyl)sulfonyl)amide
+13448,101.325,1394.9,298.15,1-butyl-1-methylpyrrolidinium bis[(trifluoromethyl)sulfonyl]imide
+13555,101.325,1372.76,298.15,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+13576,101.325,1519.5,298.13,1-ethyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+13681,101.0,1550.06,298.36,1-hexyl-3-methylimidazolium tris(pentafluoroethyl)trifluorophosphate
+13702,101.325,1368.0,298.0,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+13703,101.325,1370.1,298.0,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+13704,101.325,1370.3,298.0,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+13705,101.325,1370.4,298.0,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+13706,101.325,1370.8,298.0,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+13707,101.325,1371.2,298.0,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+13708,101.325,1371.8,298.0,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+13742,101.325,1413.7,298.2,1-methyl-1-propylpiperidinium bis(trifluoromethylsulfonyl)imide
+13826,101.325,1419.4,298.15,"1-butyl-2,3-dimethyl-1H-imidazolium bis(trifluoromethylsulfonyl)amide"
+13847,101.325,1093.7,298.1,1-ethyl-3-methylimidazolium octyl sulfate
+13867,101.325,1535.92,298.15,1-ethylpyridinium bis[(trifluoromethyl)sulfonyl]imide
+13888,101.325,1201.4,298.15,1-butyl-2-methylpyridinium tetrafluoroborate
+13913,101.325,1094.5,298.15,N-octyl-3-methylpyridinium tetrafluoroborate
+13934,101.325,1049.6,298.15,1-butyl-3-methylpyridinium dicyanamide
+13955,101.325,1182.6,298.15,1-butyl-3-methylpyridinium tetrafluoroborate
+13976,101.325,1182.6,298.15,1-butyl-4-methylpyridinium tetrafluoroborate
+13991,101.325,958.6,298.15,tetradecyltrihexylphosphonium bromide
+14017,101.325,1181.7,298.15,trihexyl(tetradecyl)phosphonium tris(pentafluoroethyl)trifluorophosphate
+14039,101.325,1130.4,298.15,3-ethyl-1-methyl-1H-imidazolium hexyl sulfate
+14062,101.325,1598.4,298.15,"1-butyl-2,3-dimethyl-1H-imidazolium trifluorotris(perfluoroethyl)phosphate(V)"
+14086,101.325,1631.0,298.15,1-(2-methoxyethyl)-1-methylpyrrolidinium tris(pentafluoroethyl)trifluorophosphate
+14110,101.325,1454.7,298.15,1-(2-methoxyethyl)-1-methylpyrrolidinium bis((trifluoromethyl)sulfonyl)amide
+14130,101.325,1221.8,298.15,1-ethyl-3-methylpyridinium ethylsulfate
+14131,101.325,1221.8,298.16,1-ethyl-3-methylpyridinium ethylsulfate
+14150,101.325,1577.0,298.15,1-(4-sulfobutyl)-3-methylimidazolium bis(trifluoromethanesulfonyl)imide
+14174,101.325,1478.4,298.15,1-(4-sulfobutyl)-3-methylimidazolium trifluoromethanesulfonate
+14198,101.325,1437.7,298.15,1-methyl-3-(4-sulfobutyl)-imidazolium hydrogensulfate
+14230,101.325,1464.45,298.15,2-methyl-1-propylpyridinium bis((trifluoromethyl)sulfonyl)amide
+14255,101.325,1505.71,298.15,1-ethyl-2-methylpyridinium bis((trifluoromethyl)sulfonyl)amide
+14281,101.325,1237.8,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+14305,101.325,1253.1,298.15,1-propylpyridinium tetrafluoroborate
+14330,101.325,1213.7,298.15,1-butylpyridinium tetrafluoroborate
+14353,101.325,898.0,298.15,tetradecyl(trihexyl)phosphonium dicyanamide
+14354,101.325,898.0,298.16,tetradecyl(trihexyl)phosphonium dicyanamide
+14494,101.325,1202.3,298.15,1-butyl-3-methylimidazolium tetrafluoroborate
+14562,101.325,1238.5,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+14563,101.325,1238.5,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+14699,101.325,1238.14,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+14700,101.325,1238.15,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+14701,101.325,1238.15,298.16,1-ethyl-3-methylimidazolium ethyl sulfate
+14738,101.325,1144.5,298.15,1-hexyl-3-methylimidazolium tetrafluoroborate
+14774,101.325,1103.5,298.15,1-methyl-3-octylimidazolium tetrafluoroborate
+15176,101.325,1372.04,298.15,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+15177,101.325,1372.07,298.15,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+15178,101.325,1372.17,298.15,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+15179,101.325,1372.22,298.15,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide
+15420,101.325,1063.6,298.15,1-butyl-3-methylimidazolium octyl sulfate
+17615,101.325,1237.9,298.15,1-ethyl-3-methylimidazolium ethyl sulfate
+17686,101.325,1060.5,298.15,1-butyl-3-methylimidazolium dicyanamide
+17757,101.325,1436.0,298.15,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+17899,101.325,988.81,298.15,trihexyltetradecylphosphonium tetrachloroferrate
+17970,101.325,1365.8,298.15,1-butyl-3-methylimidazolium tetrachloroferrate
+18041,101.325,1365.77,298.15,1-ethyl-3-methylimidazolium hydrogen sulfate
+18112,101.325,1095.7,298.15,1-ethyl-3-methylimidazolium octyl sulfate
+18183,101.325,1286.02,298.15,1-ethyl-3-methylimidazolium methylsulfate
+18254,101.325,1130.4,298.15,3-ethyl-1-methyl-1H-imidazolium hexyl sulfate
+18325,101.325,1176.2,298.15,3-ethyl-1-methylimidazolium butyl sulfate
+24086,101.325,1237.5,298.16,1-ethyl-3-methylimidazolium ethyl sulfate
+26629,101.0,1052.6,298.15,1-butyl-3-methylimidazolium acetate
+26969,101.0,1436.8,298.15,1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide
+28911,101.325,1039.2,298.15,N-methyl-2-hydroxyethylammonium butanoate
+28912,101.325,1039.1,298.4,N-methyl-2-hydroxyethylammonium butanoate
+28913,101.325,1038.9,298.65,N-methyl-2-hydroxyethylammonium butanoate
+28914,101.325,1038.7,298.9,N-methyl-2-hydroxyethylammonium butanoate
+29152,101.325,1043.4,298.15,2-hydroxy-N-methylethanaminium isobutyrate
+29153,101.325,1043.2,298.4,2-hydroxy-N-methylethanaminium isobutyrate
+29154,101.325,1043.0,298.65,2-hydroxy-N-methylethanaminium isobutyrate
+29155,101.325,1042.9,298.9,2-hydroxy-N-methylethanaminium isobutyrate
+29393,101.325,1128.2,298.15,2-hydroxy-N-methylethanaminium formate
+29394,101.325,1128.1,298.4,2-hydroxy-N-methylethanaminium formate
+29395,101.325,1128.0,298.65,2-hydroxy-N-methylethanaminium formate
+29396,101.325,1127.8,298.9,2-hydroxy-N-methylethanaminium formate
+29634,101.325,1100.8,298.15,N-methyl-2-hydroxyethylammonium acetate
+29635,101.325,1100.7,298.4,N-methyl-2-hydroxyethylammonium acetate
+29636,101.325,1100.5,298.65,N-methyl-2-hydroxyethylammonium acetate
+29637,101.325,1100.4,298.9,N-methyl-2-hydroxyethylammonium acetate
+29875,101.325,1071.3,298.15,2-hydroxy-N-methylethanaminium propionate
+29876,101.325,1071.1,298.4,2-hydroxy-N-methylethanaminium propionate
+29877,101.325,1070.9,298.65,2-hydroxy-N-methylethanaminium propionate
+29878,101.325,1070.8,298.9,2-hydroxy-N-methylethanaminium propionate
+30116,101.325,1016.2,298.15,2-hydroxy-N-methylethanaminium pentanoate
+30117,101.325,1016.0,298.4,2-hydroxy-N-methylethanaminium pentanoate
+30118,101.325,1015.9,298.65,2-hydroxy-N-methylethanaminium pentanoate
+30119,101.325,1015.7,298.9,2-hydroxy-N-methylethanaminium pentanoate
+31140,101.0,1372.4,298.15,1-hexyl-3-methylimidazolium bis[(trifluoromethyl)sulfonyl]imide

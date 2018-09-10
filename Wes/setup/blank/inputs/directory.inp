@@ -1,0 +1,22 @@
+#/bin/bash
+ROOT=/gscratch/pfaendtner/maneko/Summer2018/Wes/simulationRuns/slurm/cat_anio
+SCRIPTS=$ROOT/scripts
+SYSTEMS=$ROOT/systems
+STRUCTURES=$ROOT/structures
+INPUTS=$ROOT/inputs
+echo "${name}"
+if [ ! -d $ROOT/systems/${name} ] ; then
+  mkdir $ROOT/systems/${name}
+fi
+PROJROOT=$ROOT/systems/${name}
+source $SCRIPTS/activate_amber14.sh
+source $SCRIPTS/environment.sh
+if [ ! -d $PROJROOT/boxmaker ] ; then
+  mkdir $PROJROOT/boxmaker 
+fi
+if [ ! -d $PROJROOT/production_md ] ; then
+  mkdir $PROJROOT/production_md
+fi
+SETUP=$PROJROOT/boxmaker
+ILhome=$PROJROOT/production_md
+
